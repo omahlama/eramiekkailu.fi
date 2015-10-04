@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  font-weight: 300;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px/24px;
+  color: #222;
+}
+
+#hero {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 66%;
+  background-repeat: no-repeat;
+  background-color: #000;
+}
+
+#hero h1 {
+  position: absolute;
+  color: #fff;
+  left: 0;
+  right: 0;
+  font-size: 6vw;
+  text-align: center;
+}
+
+#hero:before {
+  content: '';
+  position: absolute;
+  background-image: url(http://upload.wikimedia.org/wikipedia/commons/0/0f/Reshetnikov_v_Dolniceanu_2013_Fencing_WCH_SMS-IN_t192032.jpg);
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
