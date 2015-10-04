@@ -12,12 +12,48 @@ Harjoitukset on keskiviikkoisin ja perjantaisin:
 * 18.00-19.15: Nuoret
 * 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-### Miekkailun alkeiskurssi 10-15 vuotiaille tytöille ja pojille
+<hr>
 
-Aloita miekkailu syyskuussa! Tapanilan Erän miekkailujaosto järjestää 10-15 vuotialle tytöille ja pojille alkeiskurssin 2.9.2015 alkaen. Kurssi järjestetään keskiviikkoisin ja perjantaisin klo 18-19. Kurssin hinta on 120e, johon sisältyy opetus ja varusteiden laina. Syyskauden harjoittelu on alkeiskurssin käyneelle ilmainen. Mukaan tarvitset normaalit sisäliikuntavarusteet. 
+## Alkeiskurssit
+
+Seuraavat alkeiskurssi järjestätään tammikuussa 2016. Alkeiskurssi järjestetään sekä nuorille (10-15v) että aikuisille (16v-). Varmista paikkasi kurssilla ennakkoilmoittautumalla jo nyt, kurssi täytetään ilmoittautumisjärjestyksessä.
+
+Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan.
 
 Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse tapera.miekkailujaosto@gmail.com tai puh 040 2403107.
 
-### Vanhempien nuorten ja aikuisten kurssit
+<hr>
 
-Oletko liian vanha lasten kurssille kurssille? Ota silti yhteyttä, järjestämme vanhempien nuorten ja aikuisten kursseja kysynnän mukaan.
+## Valmentajat
+
+<div class="coach">
+    <img src="img/olli.jpg">
+    <h3>Petri Vammelvuo</h3>
+
+Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston päävalmentaja. Hän ohjaa erän opetusta ja valmentaa sekä kalvalla että säilällä.
+<a href="petri.html">Lue lisää >></a>
+</div>
+
+<div class="coach">
+    <img src="img/olli.jpg">
+    <h3>Samuli Korpimäki</h3>
+
+Samuli on säilän vastuuvalmentaja ja opettaa sekä nuoria että aikuisia säilistejä.
+
+</div>
+
+<div class="coach">
+    <img src="img/olli.jpg">
+    <h3>Olli Mahlamäki</h3>
+
+Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa nuorten ryhmää. Lisäksi Olli on miekkailujaoston puheenjohtaja.
+
+</div>
+
+
+<div class="coach">
+    <img src="img/olli.jpg">
+    <h3>Timo Sarpola</h3>
+
+Timo on miekkailujaoston aktiiveista pisimpään mukana ollut jäsen. Hän kilpailee itse kalvalla ja säilällä ja valmentaa nuorten kalparyhmää.
+</div>
