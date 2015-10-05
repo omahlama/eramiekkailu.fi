@@ -20,7 +20,7 @@ Seuraavat alkeiskurssi järjestätään tammikuussa 2016. Alkeiskurssi järjeste
 
 Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan.
 
-Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse tapera.miekkailujaosto@gmail.com tai puh 040 2403107.
+Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse tapera.miekkailujaosto@gmail.com tai puh 044 568 0781.
 
 <hr>
 
