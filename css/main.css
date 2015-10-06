@@ -81,3 +81,7 @@ p {
 .coach h3 {
   text-align: center
 }
+
+li {
+  margin: 12px 0;
+}
