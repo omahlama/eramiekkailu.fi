@@ -3,6 +3,8 @@ layout: default
 title: Tapanilan Erä miekkailujaosto
 ---
 
+# Tapanilan Erä - miekkailujaosto
+
 Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina sekä kalpa että säilä.
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin. Ota yhteyttä sihteeriimme tai tule tutustumaan harjoituksiin.
@@ -31,7 +33,7 @@ Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse tapera.miekka
     <h3>Petri Vammelvuo</h3>
 
 Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston päävalmentaja. Hän ohjaa erän opetusta ja valmentaa sekä kalvalla että säilällä.
-<a href="petri.html">Lue lisää >></a>
+<a href="petri/">Lue lisää >></a>
 </div>
 
 <div class="coach">
@@ -57,5 +59,3 @@ Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen its
 
 Timo on miekkailujaoston aktiiveista pisimpään mukana ollut jäsen. Hän kilpailee itse kalvalla ja säilällä ja valmentaa nuorten kalparyhmää.
 </div>
-
-<hr>

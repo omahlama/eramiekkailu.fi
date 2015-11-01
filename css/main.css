@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-weight: 300;
+  line-height: 150%;
 }
 
 html, body {
@@ -9,7 +10,10 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   color: #222;
-  line-height: 150%;
+}
+
+h1 {
+  font-size: 300%;
 }
 
 h2 {
@@ -24,6 +28,15 @@ p {
   margin: 24px 0;
 }
 
+a, a:visited {
+  text-decoration: none;
+  color: #2490BA;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
 #main {
   background-image: url('../img/hero.jpg');
   background-size: 100%;
@@ -32,10 +45,32 @@ p {
   padding-top: 400px;
 }
 
-#logo {
+@media all and (max-width: 900px) {
+  #main {
+    background-size: 900px;
+  }
+}
+
+#navi {
   position: absolute;
   top: 0;
-  left: -180px;
+  left: 0;
+  right: 0;
+  height: 60px;
+  padding: 0 20px;
+  background: rgba(0,0,0,0.8);
+  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+}
+
+#navi-items {
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 60px;
+}
+
+#navi-items a {
+  display: inline-block;
+  margin-right: 50px;
 }
 
 #container {
