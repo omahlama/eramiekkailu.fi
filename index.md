@@ -6,7 +6,7 @@ navi: frontpage
 
 # Tapanilan Erä - miekkailujaosto
 
-<img id="logo" src="img/logo_era.jpg"> Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina sekä kalpa että säilä.
+<img id="logo" src="{{site.baseurl}}img/logo_era.jpg"> Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina sekä kalpa että säilä.
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin. Ota yhteyttä sihteeriimme tai tule tutustumaan harjoituksiin.
 
