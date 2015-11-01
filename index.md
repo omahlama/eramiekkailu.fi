@@ -22,7 +22,7 @@ Seuraavat alkeiskurssi järjestätään tammikuussa 2016. Alkeiskurssi järjeste
 
 Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan.
 
-Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse tapera.miekkailujaosto@gmail.com tai puh 044 568 0781.
+Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 568 0781.
 
 <hr>
 
@@ -59,3 +59,14 @@ Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen its
 
 Timo on miekkailujaoston aktiiveista pisimpään mukana ollut jäsen. Hän kilpailee itse kalvalla ja säilällä ja valmentaa nuorten kalparyhmää.
 </div>
+
+<hr>
+
+## Yritys-, kaveri- ja polttariryhmät
+
+Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota yhteyttä [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com). Miekkailuun tutustuisen hinta on 300€ (alv 0%) 1-10 hengelle. Tutustuminen kestää 1,5 tuntia, jonka aikana opetellaan jalkatyötä, lyöntejä ja väistöjä - riittävästi perusasioita, jotta jokainen pystyy turvallisesti ottamaan vähintään yhden ottelun kaveria vastaan. Kaikki miekkailuvarusteet kuuluvat hintaan, mukaan tarvitset vain:
+
+- Sisäliikuntavarusteet
+    + Vähintään polvipituiset housut
+    + Sisäliikuntakengät
+- Juomapullon, täällä tulee hiki
