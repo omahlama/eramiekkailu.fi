@@ -28,6 +28,14 @@ p {
   margin: 24px 0;
 }
 
+li {
+  margin: 12px 0;
+}
+
+hr {
+  clear: both;
+}
+
 a, a:visited {
   text-decoration: none;
   color: #2490BA;
@@ -112,6 +120,7 @@ a:hover, a:active {
     border-bottom: 1px solid #333;
     text-align: center
   }
+
 }
 
 #container {
@@ -140,10 +149,12 @@ a:hover, a:active {
   text-align: center
 }
 
-li {
-  margin: 12px 0;
-}
-
 #logo {
   float: right;
+}
+
+@media all and (max-width: 500px) {
+  #logo {
+    float: none;
+  }
 }
