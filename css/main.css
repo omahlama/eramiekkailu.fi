@@ -25,7 +25,7 @@ p {
 }
 
 #main {
-  background-image: url('/img/hero.jpg');
+  background-image: url('../img/hero.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center 0 ;
