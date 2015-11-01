@@ -14,13 +14,15 @@
       <div id="main">
         <div id="navi">
             <div id="navi-items">
-                <a href="{{ site.baseurl }}/">Etusivu</a>
-                <a href="{{ site.baseurl }}/petri/">Päävalmentaja</a>
-                <a href="{{ site.baseurl }}/salisaannot/">Salisäännöt</a>
+                <a href="{{ site.baseurl }}/" {% if page.navi == 'frontpage' %}class='active'{% endif %}>Etusivu</a>
+                <a href="{{ site.baseurl }}/petri/" {% if page.navi == 'petri' %}class='active'{% endif %}>Päävalmentaja</a>
+                <a href="{{ site.baseurl }}/salisaannot/" {% if page.navi == 'saannot' %}class='active'{% endif %}>Salisäännöt</a>
             </div>
         </div>
         <div id="container">
         {{ content }}
         </div>
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="{{ site.baseurl }}/js/era.js"></script>
     </body>
 </html>

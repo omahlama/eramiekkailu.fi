@@ -65,12 +65,53 @@ a:hover, a:active {
 #navi-items {
   max-width: 900px;
   margin: 0 auto;
-  line-height: 60px;
 }
 
 #navi-items a {
   display: inline-block;
   margin-right: 50px;
+  line-height: 60px;
+}
+
+#navi-items a.active {
+  color: #ddd;
+}
+
+@media all and (max-width: 500px) {
+
+  #navi:before {
+    content: '';
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    width: 32px;
+    height: 32px;
+    background: url("../img/hamburger.svg");
+    transition: opacity 0.3s;
+  }
+
+  #navi-items a {
+    display: none;
+  }
+
+  #navi {
+    height: auto;
+    padding: 0;
+  }
+  #navi.open:before {
+    opacity: 0;
+  }
+  #navi.open #navi-items {
+    border-top: 1px solid #333;
+  }
+
+  #navi.open #navi-items a {
+    display: block;
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #333;
+    text-align: center
+  }
 }
 
 #container {

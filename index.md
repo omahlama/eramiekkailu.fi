@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tapanilan Erä miekkailujaosto
+navi: frontpage
 ---
 
 # Tapanilan Erä - miekkailujaosto
