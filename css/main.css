@@ -143,3 +143,7 @@ a:hover, a:active {
 li {
   margin: 12px 0;
 }
+
+#logo {
+  float: right;
+}
