@@ -34,6 +34,8 @@ li {
 
 hr {
   clear: both;
+  border: 0 none;
+  border-bottom: 1px solid #ccc;
 }
 
 a, a:visited {
@@ -133,7 +135,7 @@ a:hover, a:active {
 }
 
 .coach {
-  max-width: 400px;
+  max-width: 425px;
   padding: 20px;
 
   display: inline-block;
