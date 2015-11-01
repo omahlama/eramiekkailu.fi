@@ -10,3 +10,5 @@ timezone: null
 lsi: false
 markdown: kramdown
 highlighter: pygments
+
+baseurl: /eramiekkailu.fi
