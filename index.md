@@ -41,7 +41,7 @@ Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston pä�
 </div>
 
 <div class="coach">
-    <img src="img/olli.jpg">
+    <img src="img/samuli.jpg">
     <h3>Samuli Korpimäki</h3>
 
 Samuli on säilän vastuuvalmentaja ja opettaa sekä nuoria että aikuisia säilistejä.

@@ -145,6 +145,14 @@ a:hover, a:active {
 .coach img {
   width: 100%;
   border-radius: 50%;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: all 0.3s;
+}
+
+.coach:hover img {
+  -webkit-filter: none;
+  filter: none;
 }
 
 .coach h3 {
