@@ -122,7 +122,6 @@ a:hover, a:active {
     border-bottom: 1px solid #333;
     text-align: center
   }
-
 }
 
 #container {
@@ -135,12 +134,19 @@ a:hover, a:active {
 }
 
 .coach {
-  max-width: 425px;
+  width: 49%;
   padding: 20px;
 
   display: inline-block;
   vertical-align: top;
 }
+
+@media all and (max-width: 500px) {
+  .coach {
+    width: 100%;
+  }
+}
+
 
 .coach img {
   width: 100%;
