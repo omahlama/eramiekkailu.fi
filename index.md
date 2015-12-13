@@ -77,3 +77,18 @@ Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota y
     + Vähintään polvipituiset housut
     + Sisäliikuntakengät
 - Juomapullon, täällä tulee hiki
+
+<hr>
+
+## Seuraa meitä Facebookissa
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fi_FI/sdk.js#xfbml=1&version=v2.5&appId=1374730552759931";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/eramiekkailu" data-tabs="timeline" data-width="500" data-height="750" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/eramiekkailu"><a href="https://www.facebook.com/eramiekkailu">Tapanilan Erän Miekkailujaosto</a></blockquote></div></div>
