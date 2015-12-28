@@ -27,7 +27,7 @@ Seuraavat alkeiskurssi alkaa keskiviikkona 13.1.2016 ja kestää 4 viikkoa. Kurs
 * 18.00-19.15: 10-15v tytöt ja pojat
 * 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 140€ ja aikuisilta 180€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2016) on ilmainen!
+Alkeiskurssin hinta on nuorilta 140€ ja aikuisilta 180€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2016) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 568 0781.
 
