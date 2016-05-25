@@ -22,14 +22,16 @@ Harjoitukset on keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssi alkaa keskiviikkona 13.1.2016 ja kestää 4 viikkoa. Kurssin jälkeen uudet miekkailijat liittyvät mukaan samanikäisten ryhmään. Harjoitusajat pysyvät koko kevään samoina, keskiviikkoisin ja perjantaisin: 
+Seuraavat alkeiskurssi alkaa syksyllä 2016, suurin piirtein koulujen alkaessa. Tarkka kurssin alkamisaika tiedotetaan lähempänä. Voit varmistaa paikkasi syksyn kurssille ennakkoilmoittautumalla jo nyt!
+
+Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
 * 18.00-19.15: 10-15v tytöt ja pojat
 * 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 140€ ja aikuisilta 180€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2016) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 140€ ja aikuisilta 180€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2016) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
-Ilmoittautumiset ja lisätiedot Samuli Korpimäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 568 0781.
+Ilmoittautumiset ja lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
 <hr>
 
