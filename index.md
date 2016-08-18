@@ -25,6 +25,8 @@ Syyskausi alkaa keskiviikkona 7.9.2016.
 
 Seuraavat alkeiskurssi alkaa keskiviikkona 7.9.2016. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
+*Nuorten kurssi on täynnä, voit ilmoittautua varasijalle tai laittaa viestiä niin saat tietoa seuraavasta kurssista. Yli 16v kurssilla on vielä tilaa.*
+
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
 * 18.00-19.15: 10-15v tytöt ja pojat
