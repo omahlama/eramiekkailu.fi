@@ -26,6 +26,7 @@ h2 {
 
 h3 {
   font-size: 150%;
+  clear: both;
 }
 
 p {
@@ -49,6 +50,10 @@ a, a:visited {
 
 a:hover, a:active {
   text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
 }
 
 #main {
@@ -178,3 +183,18 @@ a:hover, a:active {
     float: none;
   }
 }
+
+.material {
+  width: 200px;
+  float: right;
+  clear: both;
+  margin-top: -60px;
+  margin-bottom: 10px;
+}
+
+@media all and (max-width: 500px) {
+  .material {
+    width: 100%;
+    float: none;
+    margin-top: 0;
+  }
