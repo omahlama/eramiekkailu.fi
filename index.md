@@ -17,15 +17,13 @@ Harjoitukset on keskiviikkoisin ja perjantaisin:
 * 18.00-19.15: Nuoret
 * 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-Syyskausi alkaa keskiviikkona 7.9.2016.
+Syyskausi loppuu perjantaina 15.12.2016, kevätkausi alkaa keskiviikkona 11.7.2017.
 
 <hr>
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssi alkaa keskiviikkona 7.9.2016. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
-
-*Nuorten kurssi on täynnä, voit ilmoittautua varasijalle tai laittaa viestiä niin saat tietoa seuraavasta kurssista. Yli 16v kurssilla on vielä tilaa.*
+Seuraavat alkeiskurssi alkaa keskiviikkona 1.2.2017. Varmista paikkasi kevään kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
