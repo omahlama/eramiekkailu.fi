@@ -17,20 +17,20 @@ Harjoitukset on keskiviikkoisin ja perjantaisin:
 * 18.00-19.15: Nuoret
 * 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-Syyskausi loppuu perjantaina 15.12.2016, kevätkausi alkaa keskiviikkona 11.7.2017.
+Kevätkausi loppui keskiviikkona 31.5.2017, jatkamme taas elo-syyskuun vaihteessa.
 
 <hr>
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssi alkaa keskiviikkona 1.2.2017. Varmista paikkasi kevään kurssille ilmoittautumalla jo nyt!
+Seuraavat alkeiskurssit alkavat syyskuun alussa. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
 * 18.00-19.15: 10-15v tytöt ja pojat
 * 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2016) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2017) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Ilmoittautumiset ja lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
@@ -42,7 +42,7 @@ Ilmoittautumiset ja lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkai
     <img src="img/petri.jpg">
     <h3>Petri Vammelvuo</h3>
 
-Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston päävalmentaja. Hän ohjaa erän opetusta ja valmentaa sekä kalvalla että säilällä.
+Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston päävalmentaja. Hän ohjaa erän opetusta ja valmentaa säilän kilparyhmää.
 <a href="petri/">Lue lisää >></a>
 </div>
 
@@ -64,10 +64,10 @@ Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen its
 
 
 <div class="coach">
-    <img src="img/timo.jpg">
-    <h3>Timo Sarpola</h3>
+    <img src="img/markus.jpg">
+    <h3>Markus Kyllönen</h3>
 
-Timo on miekkailujaoston aktiiveista pisimpään mukana ollut jäsen. Hän kilpailee itse kalvalla ja säilällä ja valmentaa nuorten kalparyhmää.
+Markus vastaa erällä kalparyhmän valmennuksesta. Hän on itse aktiivinen kilpamiekkailija.
 </div>
 
 <hr>
