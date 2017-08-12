@@ -12,18 +12,20 @@ Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilp
 
 <img id="logo" src="img/logo_era.jpg">
 
-Harjoitukset on keskiviikkoisin ja perjantaisin:
+Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
+* Maanantai 18.30-21.00: Kilparyhmä, kalpa ja aikuiset
+* Keskiviikko 18.00-19.15: Nuoret
+* Keskiviikko 19.15-20.30: Vanhemmat juniorit ja aikuiset
+* Perjantai 18.00-19.15: Nuoret
+* Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-* 18.00-19.15: Nuoret
-* 19.15-20.30: Vanhemmat juniorit ja aikuiset
-
-Kevätkausi loppui keskiviikkona 31.5.2017, jatkamme taas elo-syyskuun vaihteessa.
+Syyskausi alkaa perjantaina 1.9.2017.
 
 <hr>
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat syyskuun alussa. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
+Seuraavat alkeiskurssit alkavat perjantaina 1.9.2017 alussa. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
@@ -33,6 +35,14 @@ Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden s
 Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2017) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Ilmoittautumiset ja lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
+
+Ilmoittautumiseen tarvittavat tiedot:
+
+* Nimi
+* Syntymäaika
+* Osoite
+* Sähköposti
+* Puhelinnumero (oma ja huoltajan)
 
 <hr>
 
@@ -70,6 +80,12 @@ Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen its
 Markus vastaa erällä kalparyhmän valmennuksesta. Hän on itse aktiivinen kilpamiekkailija.
 </div>
 
+<div class="coach">
+    <img src="img/mika.jpg">
+    <h3>Mika Roman</h3>
+
+Mika on säilämiekkailun 11-kertainen suomenmestari ja miekkailujaoston entinen puheenjohtaja. Hän palaa syksyllä 2017 erän valmennustiimiin ja vastaa maanantain sparringista.
+</div>
 <hr>
 
 ## Yritys-, kaveri- ja polttariryhmät
