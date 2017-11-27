@@ -16,19 +16,19 @@ Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miek
 
 ## Tarvittavat varusteet
 
-Tässä on kuvattu säilisteille tarvittavat varusteet. Kalparyhmän jäsenillä on pääsääntöisesti jo omat varusteet, neuvoa kalpavarusteiden hankinnassa voi pyytää Petriltä.
+Tässä on kuvattu säilisteille tarvittavat varusteet. Kalparyhmän jäsenillä on pääsääntöisesti jo omat varusteet, neuvoa kalpavarusteiden hankinnassa voi pyytää Markukselta.
 
 ### Miekkailupuku
 
 <img src="/img/miekkailupuku.jpg" alt="Miekkailupuku" class="material">
 
-Valkoinen puku (housut ja takki) suojaa miekkailijaa. Alle 15v sarjoissa riittää 350N, sitä vanhemmat tarvitsevat 800N. Ns. harjoittelupukua ei suositella kenellekään, se on tarkoitettu lähinnä seurojen alkeiskursseille.
+Valkoinen puku (housut ja takki) suojaa miekkailijaa. Suomessa järjestettävät nuorten kilpailut ovat käytännössä aina alle 17v-sarjoja, siksi suositamme kaikia hankkimaan 800N puku (alle 15v sarjoissa kävisi 350N puku, mutta niitä ei juuri suomessa järjestetä). Ns. harjoittelupukua ei suositella kenellekään, se on tarkoitettu lähinnä seurojen alkeiskursseille.
 
 Puvuista voi oikean vahvuisista valita huoleti halvimman vaihtoehdon: kalliimmat puvut ovan hieman kevyempiä ja joustavampia, mutta halvin on aivan riittävän hyvä.
 
 [Miekkailupuvut](http://www.miekkailutarvike.fi/index.php?cPath=176_137_36)
 
-Alle 15v voi hankkia kaikki varusteet kätevässä paketissa:
+350N puvun voi hankkia kätevästi paketissa:
 
 [350N paketti]( http://www.miekkailutarvike.fi/product_info.php?cPath=127&products_id=441)
 
@@ -47,15 +47,15 @@ Alusliivi tulee valkoisen takin alle ja tarjoaa lisäsuojaa. Treeneissä se ei o
 
 Maski suojaa päätä. Säilisteiden tulee hankkia säilämaski, joka johtaa sähköä.
 
-[Yli 15v maski 1600N](http://www.miekkailutarvike.fi/product_info.php?cPath=176_137_37_33&products_id=55)
+[1600N maski - suositeltu](http://www.miekkailutarvike.fi/product_info.php?cPath=176_137_37_33&products_id=55)
 
-[Alle 15v maski 350N](http://www.miekkailutarvike.fi/product_info.php?cPath=176_137_37_33&products_id=56)
+[350N maski aivan nuorimmille](http://www.miekkailutarvike.fi/product_info.php?cPath=176_137_37_33&products_id=56)
 
 ### Hanska
 
 <img src="/img/hanska.jpg" alt="Hanska" class="material">
 
-Hanskassa tärkeää on valita säilähanska, jossa ranteesta käsivarteen jatkuva osa johtaa sähköä. Kansainvälisissä kisoissa vaaditaan yli 15v miekkailijoilta "Säilähanska FIE 800N", Suomessa kelpaa mikä vaan säilähanskoista.
+Hanskassa tärkeää on valita säilähanska, jossa ranteesta käsivarteen jatkuva osa johtaa sähköä. Suositeltava valinta on "Säilähanska FIE 800N", joka käy myös PM-kisoissa (joihin Erältä osallistutaan vuosittain ).  Suomessa kelpaa mikä vaan säilähanskoista.
 
 [Hanskat](http://www.miekkailutarvike.fi/index.php?cPath=176_137_38)
 
