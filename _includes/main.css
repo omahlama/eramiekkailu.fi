@@ -197,3 +197,57 @@ img {
     float: none;
     margin-top: 0;
   }
+}
+
+.trophy-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.trophy-table th {
+  font-weight: 500;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+.trophy-table tr:nth-child(even) {
+  background-color: #f5f6f7;
+}
+
+.trophy-table td {
+  padding: 5px 20px 5px 0;
+}
+
+@media all and (max-width: 500px) {
+  .trophy-table th {
+    display: none;
+  }
+
+  .trophy-table td {
+    display: block;
+  }
+
+  .trophy-table td:nth-child(1) {
+    font-weight: 500;
+    padding-left: 50px;
+  }
+
+  .trophy-table td:before {
+    display: inline-block;
+    width: 50px;
+    color: #999;
+  }
+
+  .trophy-table td:nth-child(2):before {
+    content: 'MRT: '
+  }
+
+ .trophy-table td:nth-child(3):before {
+    content: 'GW: '
+  }
+ .trophy-table td:nth-child(4):before {
+    content: 'SS: '
+  }
+
+}
+
