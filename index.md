@@ -19,7 +19,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 * Perjantai 18.00-19.15: Nuoret
 * Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-Syyskausi alkaa maanantaina 1.9.2018.
+Syyskausi alkaa maanantaina 3.9.2018.
 
 <hr>
 
