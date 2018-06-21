@@ -8,7 +8,7 @@ navi: frontpage
 
 Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina sekä kalpa että säilä.
 
-Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin. Ota yhteyttä sihteeriimme tai tule tutustumaan harjoituksiin.
+Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
 <img id="logo" src="img/logo_era.jpg">
 
@@ -19,22 +19,22 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 * Perjantai 18.00-19.15: Nuoret
 * Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
-Syyskausi alkaa perjantaina 1.9.2017.
+Syyskausi alkaa maanantaina 1.9.2018.
 
 <hr>
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat keskiviikkona 10.1.2018 alussa. Varmista paikkasi kevään kurssille ilmoittautumalla jo nyt!
+Seuraavat alkeiskurssit alkavat keskiviikkona 5.9.2018. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
 * 18.00-19.15: 10-15v tytöt ja pojat
 * 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2017) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2018) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
-Ilmoittautumiset ja lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
+Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
 Ilmoittautumiseen tarvittavat tiedot:
 
@@ -43,6 +43,9 @@ Ilmoittautumiseen tarvittavat tiedot:
 * Osoite
 * Sähköposti
 * Puhelinnumero (oma ja huoltajan)
+
+
+<a href="https://goo.gl/forms/5fMvnhCAuiPhtTXW2" class="register-button" role="button">Ilmoittaudu nyt!</a>
 
 <hr>
 
