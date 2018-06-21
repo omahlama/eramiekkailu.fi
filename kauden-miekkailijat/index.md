@@ -51,3 +51,4 @@ Timo Sarpola on jaoston vanhin jäsen, hän aloitti miekkailun Erällä jo ennen
 | Syksy 2016 | Lauri Koivuluoma          | Elmeri Sipola                  | Tommi Högman               |
 | Kevät 2017 | Michelle Niemistö         | Leevi Silfverberg              | Teresa Llorens Salminen    |
 | Syksy 2017 | Sami Vuento               | Viivi Hyppönen                 | Matti Moisio               |
+| Kevät 2018 | Sanni Tiainen             | Sara Salminen                  | Elias Helo                 |
