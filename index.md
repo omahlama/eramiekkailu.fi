@@ -25,7 +25,7 @@ Syyskausi alkaa maanantaina 3.9.2018.
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat keskiviikkona 5.9.2018. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
+Seuraavat alkeiskurssit alkavat keskiviikkona 9.1.2019. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
@@ -44,8 +44,7 @@ Ilmoittautumiseen tarvittavat tiedot:
 * Sähköposti
 * Puhelinnumero (oma ja huoltajan)
 
-
-<a href="https://goo.gl/forms/5fMvnhCAuiPhtTXW2" class="register-button" role="button">Ilmoittaudu nyt!</a>
+<a href="https://goo.gl/forms/7grgkVjN36h34Wgq1" class="register-button" role="button">Ilmoittaudu nyt!</a>
 
 <hr>
 
