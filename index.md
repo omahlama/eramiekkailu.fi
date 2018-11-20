@@ -68,7 +68,7 @@ Samuli on säilän vastuuvalmentaja ja opettaa sekä nuoria että aikuisia säil
     <img src="img/olli.jpg">
     <h3>Olli Mahlamäki</h3>
 
-Olli on säilämiekkailun 8-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa nuorten ryhmää. Lisäksi Olli on miekkailujaoston puheenjohtaja.
+Olli on säilämiekkailun 10-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa nuorten ryhmää. Lisäksi Olli on miekkailujaoston puheenjohtaja.
 
 </div>
 
