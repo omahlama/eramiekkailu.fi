@@ -23,7 +23,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat keskiviikkona 9.1.2019. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
+Seuraavat alkeiskurssit alkavat keskiviikkona 9.1.2019. Varmista paikkasi kevään kurssille ilmoittautumalla jo nyt!
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
 
