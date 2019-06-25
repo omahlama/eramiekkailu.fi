@@ -23,14 +23,14 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Kevään alkeiskurssi alkoi keskiviikkona 9.1.2019. Kurssi ei tullut täyteen, joten jälki-ilmoittautumisia otetaan tammikuun loppuun, tai kunnes kurssi on täynnä. Varmista paikkasi kevään kurssille ilmoittautumalla jo nyt!
+Syksyn alkeiskurssi alkaa keskiviikkona 4.9.2019. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
 
-Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, keskiviikkoisin ja perjantaisin: 
+Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin: 
 
 * 18.00-19.15: 10-15v tytöt ja pojat
 * 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan normaalit sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2018) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 180€ ja aikuisilta 220€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2019) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
@@ -42,7 +42,7 @@ Ilmoittautumiseen tarvittavat tiedot:
 * Sähköposti
 * Puhelinnumero (oma ja huoltajan)
 
-<a href="https://goo.gl/forms/7grgkVjN36h34Wgq1" class="register-button" role="button">Ilmoittaudu nyt!</a>
+<a href="https://forms.gle/Vjse4wbJqwm714Q99" class="register-button" role="button">Ilmoittaudu nyt!</a>
 
 <hr>
 
