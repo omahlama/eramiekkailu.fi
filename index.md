@@ -23,7 +23,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Syksyn alkeiskurssi alkaa keskiviikkona 4.9.2019. Varmista paikkasi syksyn kurssille ilmoittautumalla jo nyt!
+Syksyn alkeiskurssi alkoi keskiviikkona 4.9.2019. Nuorten kurssi on täynnä, mutta aikuisten kurssille otetaan vielä jälki-ilmoittautumisia! Seuraavat alkeiskurssit alkavat tammikuussa 2020.
 
 Harjoitusajat kurssilaisille ovat samat kuin muillakin ja pysyvät koko kauden samoina, harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin: 
 
