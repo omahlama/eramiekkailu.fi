@@ -6,7 +6,7 @@ navi: kauden-miekkailijat
 
 # Kauden miekkailija
 
-Erällä on vuodesta 2005 alkaen palkittu joka kaudella miekkailija, joka on osoittanut hyvää urheiluhenkeä, treenannut ahkerasta ja kehittynyt miekkailijana. Kauden miekkailijia saa pienen pokaalin omaksi ja kiertopalkinnon seuraavan kauden ajaksi.
+Erällä on vuodesta 2005 alkaen palkittu joka kaudella miekkailija, joka on osoittanut hyvää urheiluhenkeä, treenannut ahkerasti ja kehittynyt miekkailijana. Kauden miekkailijia saa pienen pokaalin omaksi ja kiertopalkinnon seuraavan kauden ajaksi.
 
 ### Mika Roman Trophy
 
