@@ -4,13 +4,13 @@
   line-height: 150%;
 }
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont,
-  "Segoe UI", "Roboto", "Oxygen",
-  "Ubuntu", "Cantarell", "Fira Sans",
-  "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-size: 16px;
   color: #222;
 }
@@ -42,12 +42,14 @@ hr {
   border-bottom: 1px solid #ccc;
 }
 
-a, a:visited {
+a,
+a:visited {
   text-decoration: none;
-  color: #2490BA;
+  color: #2490ba;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   text-decoration: underline;
 }
 
@@ -56,10 +58,10 @@ img {
 }
 
 #main {
-  background-image: url('../img/hero.jpg');
+  background-image: url("../img/hero.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
-  background-position: center 0 ;
+  background-position: center 0;
   padding-top: 400px;
 }
 
@@ -76,8 +78,8 @@ img {
   right: 0;
   height: 60px;
   padding: 0 20px;
-  background: rgba(0,0,0,0.8);
-  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+  background: rgba(0, 0, 0, 0.8);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
 }
 
 #navi-items {
@@ -96,9 +98,8 @@ img {
 }
 
 @media all and (max-width: 500px) {
-
   #navi:before {
-    content: '';
+    content: "";
     position: absolute;
     top: 14px;
     left: 14px;
@@ -128,7 +129,7 @@ img {
     height: 60px;
     width: 100%;
     border-bottom: 1px solid #333;
-    text-align: center
+    text-align: center;
   }
 }
 
@@ -138,13 +139,14 @@ img {
   max-width: 900px;
   margin: 0 auto 20px;
   padding: 20px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2)
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.register-button, .register-button:visited {
+.register-button,
+.register-button:visited {
   display: block;
   padding: 20px 0;
-  background: #2490BA;
+  background: #2490ba;
   color: #fff;
   border-radius: 10px;
   width: 300px;
@@ -174,7 +176,6 @@ img {
   }
 }
 
-
 .coach img {
   width: 100%;
   border-radius: 50%;
@@ -189,7 +190,7 @@ img {
 }
 
 .coach h3 {
-  text-align: center
+  text-align: center;
 }
 
 #logo {
@@ -258,15 +259,22 @@ img {
   }
 
   .trophy-table td:nth-child(2):before {
-    content: 'MRT: '
+    content: "MRT: ";
   }
 
- .trophy-table td:nth-child(3):before {
-    content: 'GW: '
+  .trophy-table td:nth-child(3):before {
+    content: "GW: ";
   }
- .trophy-table td:nth-child(4):before {
-    content: 'SS: '
+  .trophy-table td:nth-child(4):before {
+    content: "SS: ";
   }
-
 }
 
+.warning {
+  padding: 20px;
+  background: orangered;
+  color: white;
+  clear: both;
+  font-size: 120%;
+  letter-spacing: 0.5px;
+}
