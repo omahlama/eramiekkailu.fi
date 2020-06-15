@@ -61,6 +61,8 @@ Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
 * Harjoituksiin tullaan urheiluvaatteet päällä, yhteisiä pukuhuoneita ei käytetä
 * Eri harjoitusryhmien väliin jätetään 5 min tauko, jotta edellinen ryhmä ehtii poistua ennen uuden ryhmän saapumista.
 
+<hr>
+
 ## Valmentajat
 
 <div class="coach">
