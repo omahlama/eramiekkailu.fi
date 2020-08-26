@@ -66,18 +66,10 @@ Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
 ## Valmentajat
 
 <div class="coach">
-    <img src="img/petri.jpg">
-    <h3>Petri Vammelvuo</h3>
-
-Maître d’armes ja Maestro di scherma Petri Vammelvuo on miekkailujaoston päävalmentaja. Hän ohjaa erän opetusta ja valmentaa säilän kilparyhmää.
-<a href="petri/">Lue lisää >></a>
-</div>
-
-<div class="coach">
     <img src="img/samuli.jpg">
     <h3>Samuli Korpimäki</h3>
 
-Samuli on säilän vastuuvalmentaja ja opettaa sekä nuoria että aikuisia säilistejä.
+Samuli on Erän päävalmentaja. Hän opettaa sekä nuoria että aikuisia säilistejä.
 
 </div>
 
@@ -85,24 +77,18 @@ Samuli on säilän vastuuvalmentaja ja opettaa sekä nuoria että aikuisia säil
     <img src="img/olli.jpg">
     <h3>Olli Mahlamäki</h3>
 
-Olli on säilämiekkailun 10-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa nuorten ryhmää. Lisäksi Olli on miekkailujaoston puheenjohtaja.
+Olli on säilämiekkailun 11-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa kilparyhmää sekä minijunioreja. Lisäksi Olli on miekkailujaoston puheenjohtaja.
 
-</div>
-
-
-<div class="coach">
-    <img src="img/markus.jpg">
-    <h3>Markus Kyllönen</h3>
-
-Markus vastaa erällä kalparyhmän valmennuksesta. Hän on itse aktiivinen kilpamiekkailija.
 </div>
 
 <div class="coach">
-    <img src="img/mika.jpg">
-    <h3>Mika Roman</h3>
+    <img src="img/tommi.jpg">
+    <h3>Tommi Högman</h3>
 
-Mika on säilämiekkailun 11-kertainen suomenmestari ja miekkailujaoston entinen puheenjohtaja. Hän palaa syksyllä 2017 erän valmennustiimiin ja vastaa maanantain sparringista.
+Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse aikuisten ryhmässä.
+
 </div>
+
 <hr>
 
 ## Yritys-, kaveri- ja polttariryhmät
