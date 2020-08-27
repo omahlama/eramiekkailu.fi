@@ -91,6 +91,14 @@ Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse 
 
 <hr>
 
+## Tietoa miekkailusta
+
+<div class="youtube">
+    <iframe src="https://www.youtube.com/embed/nFLRsasWPwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture fullscreen" allowfullscreen></iframe>
+</div>
+
+<hr>
+
 ## Yritys-, kaveri- ja polttariryhmät
 
 Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota yhteyttä [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com). Miekkailuun tutustumisen hinta on 300€ (alv 0%) 1-10 hengelle. Tutustuminen kestää 1,5 tuntia, jonka aikana opetellaan jalkatyötä, lyöntejä ja väistöjä - riittävästi perusasioita, jotta jokainen pystyy turvallisesti ottamaan vähintään yhden ottelun kaveria vastaan. Kaikki miekkailuvarusteet kuuluvat hintaan, mukaan tarvitset vain:
