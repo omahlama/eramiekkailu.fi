@@ -10,6 +10,8 @@ Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpa
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
+<p class="warning">Jaoston toiminta on tauolla koronan takia 1.2.2021 asti.</p>
+
 <img id="logo" src="img/logo_era.jpg">
 
 Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
@@ -24,7 +26,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Kevään alkeiskurssit alkavat maanantaina 11.1.2021 ja keskiviikkona 13.1.2021. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Kevään alkeiskurssit alkavat maanantaina 1.2.2021 ja keskiviikkona 3.2.2021. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
 Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Nyt myös perheen pienemmät pääsevät mukaan miekkailuun. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€. 
 
@@ -51,7 +53,9 @@ Ilmoittautumiseen tarvittavat tiedot:
 
 ## Turvallisuus ja COVID-19
 
-Miekkailujaosto noudattaa Suomen Miekkailu- ja 5-otteluliiton ja Tapanilan Erän ohjeita, jotta harjoittelu olisi kaikille mahdollisimman turvallista.
+Miekkailujaosto noudattaa Suomen Miekkailu- ja 5-otteluliiton ja Tapanilan Erän ohjeita, jotta harjoittelu olisi kaikille mahdollisimman turvallista. 
+Emoseuran ohjeiden mukaisesti harjoittelu on keskeytetty 1.2.2021 asti. Tapanilan erällä on koronatakuu, eli koronan vuoksi peruuntuneet treenit korvataan
+joko ylimääräisillä harjoituksilla tai kausimaksun alennuksilla.
 
 Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
 
