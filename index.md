@@ -10,17 +10,18 @@ Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpa
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
-<p class="warning">Jaoston toiminta on tauolla koronan takia 1.2.2021 asti.</p>
+<p class="warning">Aikuisten toiminta on tauolla koronan takia, alle 20v toiminta jatkuu normaalisti.</p>
 
 <img id="logo" src="img/logo_era.jpg">
 
 Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
-* Maanantai 18.00-19.00: Minijuniorit
-* Maanantai 19.00-21.00: Kilparyhmä, kalpa ja aikuiset
-* Keskiviikko 18.00-19.15: Nuoret
-* Keskiviikko 19.15-20.30: Vanhemmat juniorit ja aikuiset
-* Perjantai 18.00-19.15: Nuoret
-* Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
+
+- Maanantai 18.00-19.00: Minijuniorit
+- Maanantai 19.00-21.00: Kilparyhmä, kalpa ja aikuiset
+- Keskiviikko 18.00-19.15: Nuoret
+- Keskiviikko 19.15-20.30: Vanhemmat juniorit ja aikuiset
+- Perjantai 18.00-19.15: Nuoret
+- Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
 
 <hr>
 
@@ -28,12 +29,12 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 Kevään alkeiskurssit alkavat maanantaina 1.2.2021 ja keskiviikkona 3.2.2021. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Nyt myös perheen pienemmät pääsevät mukaan miekkailuun. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€. 
+Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Nyt myös perheen pienemmät pääsevät mukaan miekkailuun. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
 
-Nuorten ja aikuisten ryhmät harjoittelevat samaan aikaan pidempään harrastaneiden kanssa, joten kurssilta jatko on helppoa. Harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin: 
+Nuorten ja aikuisten ryhmät harjoittelevat samaan aikaan pidempään harrastaneiden kanssa, joten kurssilta jatko on helppoa. Harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin:
 
-* 18.00-19.15: 10-15v tytöt ja pojat
-* 19.15-20.30: Yli 16v miehet ja naiset
+- 18.00-19.15: 10-15v tytöt ja pojat
+- 19.15-20.30: Yli 16v miehet ja naiset
 
 Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2021) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
@@ -41,11 +42,11 @@ Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](
 
 Ilmoittautumiseen tarvittavat tiedot:
 
-* Nimi
-* Syntymäaika
-* Osoite
-* Sähköposti
-* Puhelinnumero (oma ja huoltajan)
+- Nimi
+- Syntymäaika
+- Osoite
+- Sähköposti
+- Puhelinnumero (oma ja huoltajan)
 
 <a href="https://forms.gle/oHj6ADjTMHyqFgvi8" class="register-button" role="button">Ilmoittaudu nyt!</a>
 
@@ -53,17 +54,17 @@ Ilmoittautumiseen tarvittavat tiedot:
 
 ## Turvallisuus ja COVID-19
 
-Miekkailujaosto noudattaa Suomen Miekkailu- ja 5-otteluliiton ja Tapanilan Erän ohjeita, jotta harjoittelu olisi kaikille mahdollisimman turvallista. 
+Miekkailujaosto noudattaa Suomen Miekkailu- ja 5-otteluliiton ja Tapanilan Erän ohjeita, jotta harjoittelu olisi kaikille mahdollisimman turvallista.
 Emoseuran ohjeiden mukaisesti harjoittelu on keskeytetty 1.2.2021 asti. Tapanilan erällä on koronatakuu, eli koronan vuoksi peruuntuneet treenit korvataan
 joko ylimääräisillä harjoituksilla tai kausimaksun alennuksilla.
 
 Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
 
-* Seuran varusteet nimikoidaan ja alkeiskurssilaiset käyttävät aina samoja varusteita. Tämä tarkoittaa myös, että olemme entistä tarkempia siitä, että pidempään harrastaneilla on omat varusteet.
-* Alkulämmittelyissä jätetään pois pelit, joissa tulee fyysistä kontaktia
-* Miekkailuottelun jälkeen ei kätellä, ainoastaan tervehditään vastustajaa miekalla
-* Harjoituksiin tullaan urheiluvaatteet päällä, yhteisiä pukuhuoneita ei käytetä
-* Eri harjoitusryhmien väliin jätetään 5 min tauko, jotta edellinen ryhmä ehtii poistua ennen uuden ryhmän saapumista.
+- Seuran varusteet nimikoidaan ja alkeiskurssilaiset käyttävät aina samoja varusteita. Tämä tarkoittaa myös, että olemme entistä tarkempia siitä, että pidempään harrastaneilla on omat varusteet.
+- Alkulämmittelyissä jätetään pois pelit, joissa tulee fyysistä kontaktia
+- Miekkailuottelun jälkeen ei kätellä, ainoastaan tervehditään vastustajaa miekalla
+- Harjoituksiin tullaan urheiluvaatteet päällä, yhteisiä pukuhuoneita ei käytetä
+- Eri harjoitusryhmien väliin jätetään 5 min tauko, jotta edellinen ryhmä ehtii poistua ennen uuden ryhmän saapumista.
 
 <hr>
 
@@ -108,8 +109,8 @@ Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse 
 Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota yhteyttä [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com). Miekkailuun tutustumisen hinta on 300€ (alv 0%) 1-10 hengelle. Tutustuminen kestää 1,5 tuntia, jonka aikana opetellaan jalkatyötä, lyöntejä ja väistöjä - riittävästi perusasioita, jotta jokainen pystyy turvallisesti ottamaan vähintään yhden ottelun kaveria vastaan. Kaikki miekkailuvarusteet kuuluvat hintaan, mukaan tarvitset vain:
 
 - Sisäliikuntavarusteet
-    + Vähintään polvipituiset housut
-    + Sisäliikuntakengät
+  - Vähintään polvipituiset housut
+  - Sisäliikuntakengät
 - Juomapullon, täällä tulee hiki
 
 <hr>
