@@ -27,7 +27,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Kevään alkeiskurssit alkavat maanantaina 1.2.2021 ja keskiviikkona 3.2.2021. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Syksyn alkeiskurssit alkavat maanantaina 31.8.2021 ja keskiviikkona 2.9.2021. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
 Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Nyt myös perheen pienemmät pääsevät mukaan miekkailuun. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
 
@@ -36,7 +36,7 @@ Nuorten ja aikuisten ryhmät harjoittelevat samaan aikaan pidempään harrastane
 - 18.00-19.15: 10-15v tytöt ja pojat
 - 19.15-20.30: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (kevät 2021) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2021) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
@@ -48,7 +48,7 @@ Ilmoittautumiseen tarvittavat tiedot:
 - Sähköposti
 - Puhelinnumero (oma ja huoltajan)
 
-<a href="https://forms.gle/oHj6ADjTMHyqFgvi8" class="register-button" role="button">Ilmoittaudu nyt!</a>
+<a href="https://forms.gle/vy2Nz97ah1fP6LKZ7" class="register-button" role="button">Ilmoittaudu nyt!</a>
 
 <hr>
 
