@@ -10,8 +10,6 @@ Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpa
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
-<p class="warning">Aikuisten toiminta on tauolla koronan takia, alle 20v toiminta jatkuu normaalisti.</p>
-
 <img id="logo" src="img/logo_era.jpg">
 
 Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
