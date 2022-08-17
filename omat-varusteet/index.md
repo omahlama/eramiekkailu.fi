@@ -16,7 +16,7 @@ Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miek
 
 ## Tarvittavat varusteet
 
-Tässä on kuvattu säilisteille tarvittavat varusteet. Kalparyhmän jäsenillä on pääsääntöisesti jo omat varusteet, neuvoa kalpavarusteiden hankinnassa voi pyytää Markukselta.
+Tässä on kuvattu säilisteille tarvittavat varusteet kokonaisuudessaan.
 
 ### Miekkailupuku
 
