@@ -6,7 +6,7 @@ navi: frontpage
 
 # Tapanilan Erä - miekkailujaosto
 
-Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina sekä kalpa että säilä.
+Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina meillä on säilä.
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
@@ -16,23 +16,23 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 - Maanantai 18.00-19.00: Minijuniorit
 - Maanantai 19.00-21.00: Kilparyhmä, kalpa ja aikuiset
-- Keskiviikko 18.00-19.15: Nuoret
-- Keskiviikko 19.15-20.30: Vanhemmat juniorit ja aikuiset
-- Perjantai 18.00-19.15: Nuoret
-- Perjantai 19.15-20.30: Vanhemmat juniorit ja aikuiset
+- Keskiviikko 18.00-19.30: Nuoret
+- Keskiviikko 19.30-21.00: Vanhemmat juniorit ja aikuiset
+- Perjantai 18.00-19.30: Nuoret
+- Perjantai 19.30-21.00: Vanhemmat juniorit ja aikuiset
 
 <hr>
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat syyskuussa 2022. Voit varmistaa paikkasi kurssilla täyttämällä ilmoittautumisen jo nyt. Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 5.9.2022 (minijuniorit) ja 7.9.2022 (nuoret ja aikauiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Nyt myös perheen pienemmät pääsevät mukaan miekkailuun. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Kerran viikossa koko syksyn jatkuva kurssi maksaa 100€.
 
 Nuorten ja aikuisten ryhmät harjoittelevat samaan aikaan pidempään harrastaneiden kanssa, joten kurssilta jatko on helppoa. Harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin:
 
-- 18.00-19.15: 10-15v tytöt ja pojat
-- 19.15-20.30: Yli 16v miehet ja naiset
+- 18.00-19.30: 10-15v tytöt ja pojat
+- 19.30-21.00: Yli 16v miehet ja naiset
 
 Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2022) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
