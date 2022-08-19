@@ -15,7 +15,7 @@ Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilp
 Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 - Maanantai 18.00-19.00: Minijuniorit
-- Maanantai 19.00-21.00: Kilparyhmä, kalpa ja aikuiset
+- Maanantai 19.00-21.00: Kilparyhmä ja aikuiset
 - Keskiviikko 18.00-19.30: Nuoret
 - Keskiviikko 19.30-21.00: Vanhemmat juniorit ja aikuiset
 - Perjantai 18.00-19.30: Nuoret
