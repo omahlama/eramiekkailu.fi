@@ -6,7 +6,7 @@ navi: frontpage
 
 # Tapanilan Erä - miekkailujaosto
 
-Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseina meillä on säilä.
+Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpailutoimintaan Pohjois-Helsingissä Tapanilan Urheilukeskuksessa (Erätie 3, 00700 HKI), aseena meillä on säilä.
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
@@ -25,16 +25,16 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 5.9.2022 (minijuniorit) ja 7.9.2022 (nuoret ja aikauiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 9.1.2023 (minijuniorit) ja 11.1.2023 (nuoret ja aikauiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 8-9v tytöille ja pojille maanantaisin klo 18-19. Kerran viikossa koko syksyn jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 8-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko syksyn jatkuva kurssi maksaa 100€.
 
-Nuorten ja aikuisten ryhmät harjoittelevat samaan aikaan pidempään harrastaneiden kanssa, joten kurssilta jatko on helppoa. Harjoitukset on 2 kertaa viikossa keskiviikkoisin ja perjantaisin:
+Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
 - 18.00-19.30: 10-15v tytöt ja pojat
 - 19.30-21.00: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssin käyneille loppukausi (syksy 2022) on ilmainen! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
+Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssimaksuun sisältyy kausimaksu, eli kurssiosuuden päätyttyä treenit jatkuvat samaan aikaan samassa paikassa ilman lisämaksua toukokuun loppuun! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla.
 
 Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
@@ -46,23 +46,17 @@ Ilmoittautumiseen tarvittavat tiedot:
 - Sähköposti
 - Puhelinnumero (oma ja huoltajan)
 
-<a href="https://forms.gle/h1d9gqrLmYkd1Ew49" class="register-button" role="button">Ilmoittaudu nyt!</a>
+<a href="https://forms.gle/xZXiYBiofPvcrXvJ6" class="register-button" role="button" target="_blank">Ilmoittaudu nyt!</a>
 
 <hr>
 
-## Turvallisuus ja COVID-19
+# Jatko alkeiskurssin jälkeen
 
-Miekkailujaosto noudattaa Suomen Miekkailu- ja 5-otteluliiton ja Tapanilan Erän ohjeita, jotta harjoittelu olisi kaikille mahdollisimman turvallista.
-Emoseuran ohjeiden mukaisesti harjoittelu on keskeytetty 1.2.2021 asti. Tapanilan erällä on koronatakuu, eli koronan vuoksi peruuntuneet treenit korvataan
-joko ylimääräisillä harjoituksilla tai kausimaksun alennuksilla.
+Alkeiskurssin jälkeen kaikki miekkailijat siirtyvät automaattisesti jatkoryhmään. Erillistä ilmoittautumista seuraavalle kaudelle ei tarvita, vaan kaikki jatkavat
+samanikäisten ryhmässä. Harjoitusajat ovat alkeiskurssilla ja jatkoryhmässä täsmälleen samat, jotta harjoittelun jatkaminen olisi mahdollisimman helppoa.
 
-Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
-
-- Seuran varusteet nimikoidaan ja alkeiskurssilaiset käyttävät aina samoja varusteita. Tämä tarkoittaa myös, että olemme entistä tarkempia siitä, että pidempään harrastaneilla on omat varusteet.
-- Alkulämmittelyissä jätetään pois pelit, joissa tulee fyysistä kontaktia
-- Miekkailuottelun jälkeen ei kätellä, ainoastaan tervehditään vastustajaa miekalla
-- Harjoituksiin tullaan urheiluvaatteet päällä, yhteisiä pukuhuoneita ei käytetä
-- Eri harjoitusryhmien väliin jätetään 5 min tauko, jotta edellinen ryhmä ehtii poistua ennen uuden ryhmän saapumista.
+Ensimmäisen vuoden ajan saa jatkaa seuran varusteiden käyttöä. Kun miekkailun aloituksesta on kulunut vuosi, pitää hankkia omat varusteet, ohjeet löytyvä
+<a href="omat-varusteet/">omat varusteet</a> osioista.
 
 <hr>
 
@@ -72,7 +66,8 @@ Turvallisuuden parantamiseksi tehdään mm. seuraavaa:
     <img src="img/samuli.jpg">
     <h3>Samuli Korpimäki</h3>
 
-Samuli on Erän päävalmentaja. Hän opettaa sekä nuoria että aikuisia säilistejä.
+Samuli on Erän päävalmentaja. Hän opettaa sekä nuoria että aikuisia säilistejä. Keväällä 2022 Samuli kävi FIE:n 3kk kestävän valmentajakoulutuksen Unkarissa, eli hän
+on yksi parhaiten koulutetuista säilävalmentajista Suomessa.
 
 </div>
 
