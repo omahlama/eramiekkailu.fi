@@ -67,7 +67,7 @@ Ensimmäisen vuoden ajan saa jatkaa seuran varusteiden käyttöä. Kun miekkailu
     <h3>Samuli Korpimäki</h3>
 
 Samuli on Erän päävalmentaja. Hän opettaa sekä nuoria että aikuisia säilistejä. Keväällä 2022 Samuli kävi FIE:n 3kk kestävän valmentajakoulutuksen Unkarissa, eli hän
-on yksi parhaiten koulutetuista säilävalmentajista Suomessa.
+on yksi parhaiten koulutetuista säilävalmentajista Suomessa. SM5L valitsi hänet vuoden 2022 miekkailuvalmentajaksi.
 
 </div>
 
