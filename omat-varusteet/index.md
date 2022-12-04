@@ -8,7 +8,7 @@ navi: omat-varusteet
 
 Seuran varusteet on tarkoitettu erityisesti aloittelevien miekkailijoiden käyttöön. Siksi <a href="{{ site.baseurl }}/salisaannot/">salisäännöissä</a> määritetään, että omat varusteet pitää hankkia viimeistään vuoden harjoittelun jälkeen. Nyt kun alkeiskursseilla on hyvin osallistujia, niin on erityisen tärkeää, että pidempään harrastaneet hankkivat omat varusteet.
 
-Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miekkailuliiton varustemääräyksistä](https://www.fencing-pentathlon.fi/miekkailu/kilpailutoiminta/varusteet/) nähdään, että rajapyykki on 15 vuoden iässä - yli 15v sarjoissa vaaditaan samat 800N varusteet kuin aikuisilla, nuoremmille riittää tavallinen, halvempi miekkailupuku. Suosittelemme 800N varusteiden hankkimista kaikille paitsi aivan nuorimmille miekkailijoille: raja menee kilpailusarjan mukaan, ei miekkailijan iän: jos esim. 13v nuori miekkailee alle 17v sarjassa, hän tarvitsee 800N varusteet. Suomessa järjestettävissä nuorten säiläkilpailuissa sarja on yleensä 17v, eli 800N varusteet tarvitaan.
+Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miekkailuliiton varustemääräyksistä](https://www.fencing-pentathlon.fi/miekkailu/kilpailutoiminta/varusteet/) nähdään, että rajapyykki on 15 vuoden iässä - yli 15v sarjoissa vaaditaan samat 800N varusteet kuin aikuisilla, nuoremmille riittää tavallinen, halvempi miekkailupuku. Suosittelemme 800N varusteiden hankkimista kaikille paitsi aivan nuorimmille miekkailijoille: raja menee kilpailusarjan mukaan, ei miekkailijan iän: jos esim. 14v nuori miekkailee alle 17v sarjassa, hän tarvitsee 800N varusteet.
 
 <a href="https://www.miekkailutarvike.fi/"><img src="/img/oulun_miekkailutarvike.png" alt="Oulun Miekkailutarvike" /></a>
 
@@ -22,7 +22,7 @@ Tässä on kuvattu säilisteille tarvittavat varusteet kokonaisuudessaan.
 
 <img src="/img/miekkailupuku.jpg" alt="Miekkailupuku" class="material">
 
-Valkoinen puku (housut ja takki) suojaa miekkailijaa. Suomessa järjestettävät nuorten kilpailut ovat käytännössä aina alle 17v-sarjoja, siksi suositamme kaikia hankkimaan 800N puku (alle 15v sarjoissa kävisi 350N puku, mutta niitä ei juuri suomessa järjestetä). Ns. harjoittelupukua ei suositella kenellekään, se on tarkoitettu lähinnä seurojen alkeiskursseille.
+Valkoinen puku (housut ja takki) suojaa miekkailijaa. Puvussa valintana on kalliimpi 800N ja halvempi 350N puku. 800N puku vaaditaan U17 sarjassa, joten käytännössä 800N puku on siis relevantti 14v iästä eteenpäin - jos lapsi joka tapauksessa kasvaa ulos puvusta ennen 14v ikää, kannattaa ottaa halvempi 350N, jos taas sama puku käy vielä 14v iässäkin, voi saman tien hankkia 800N puvun. Ns. harjoittelupukua ei suositella kenellekään, se on tarkoitettu lähinnä seurojen alkeiskursseille.
 
 Puvuista voi oikean vahvuisista valita huoleti halvimman vaihtoehdon: kalliimmat puvut ovan hieman kevyempiä ja joustavampia, mutta halvin on aivan riittävän hyvä.
 
@@ -86,3 +86,12 @@ Säilää hankkiessa tarvitaan sähkösäilä.
 [Säilä](https://www.miekkailutarvike.fi/product_info.php?cPath=176_57_146&products_id=680)
 
 Säilän valintoja on monta, mutta oletusvalinnat on ihan riittävät. Tärkeää valita oikea- tai vasenkätinen.
+
+Säilän koko kannattaa valita miekkailijan iän ja koon mukaan, liian iso miekka on painava ja vaikeuttaa oikean tekniikan oppimista:
+
+- 8-9v: koko 0
+- 10-12v: koko 2
+- 13v-: koko 5 eli normaali aikuisten miekka
+
+Säilän koon valintaa ei löydy Miekkailutarvikkeen nettisivuilta, mutta laittamalla halutun koon lisätietoihin, asia kyllä järjestyy. Olemme
+pyytäneet valinnan lisäämistä nettisivuille.
