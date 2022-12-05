@@ -87,6 +87,14 @@ Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse 
 
 </div>
 
+<div class="coach">
+    <img src="img/sara.jpg">
+    <h3>Sara Salminen</h3>
+
+Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarjassa. Hän kilpailee itse ja valmentaa kilparyhmää.
+
+</div>
+
 <hr>
 
 ## Tietoa miekkailusta
