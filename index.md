@@ -25,9 +25,9 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 9.1.2023 (minijuniorit) ja 11.1.2023 (nuoret ja aikauiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 9.1.2023 (minijuniorit) ja 11.1.2023 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 8-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko syksyn jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 8-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
 
 Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
@@ -50,7 +50,7 @@ Ilmoittautumiseen tarvittavat tiedot:
 
 <hr>
 
-# Jatko alkeiskurssin jälkeen
+## Jatko alkeiskurssin jälkeen
 
 Alkeiskurssin jälkeen kaikki miekkailijat siirtyvät automaattisesti jatkoryhmään. Erillistä ilmoittautumista seuraavalle kaudelle ei tarvita, vaan kaikki jatkavat
 samanikäisten ryhmässä. Harjoitusajat ovat alkeiskurssilla ja jatkoryhmässä täsmälleen samat, jotta harjoittelun jatkaminen olisi mahdollisimman helppoa.
