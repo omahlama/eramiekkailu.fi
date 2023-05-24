@@ -55,9 +55,9 @@ Timo Sarpola on jaoston vanhin jäsen, hän aloitti miekkailun Erällä jo ennen
 | Syksy 2018 | Eeli Högman               | Sami Vuento                    | Joel Toppinen              |
 | Kevät 2019 | Liina Mähönen             | Elmeri Sipola                  | Jouko Juonala              |
 | Syksy 2019 | Eetu Kotilainen           | Lucas Huttu                    | Tommi Högman               |
-| Kevät 2020 | -                         | -                              | -                          |
-| Syksy 2020 | -                         | -                              | -                          |
-| Kevät 2021 | -                         | -                              | -                          |
+| Kevät 2020 | --                        | --                             | --                         |
+| Syksy 2020 | --                        | --                             | --                         |
+| Kevät 2021 | --                        | --                             | --                         |
 | Syksy 2021 | Anni Holländer            | Kasper Tuusinen                | Jukka Sinikara             |
 | Kevät 2022 | Siina Pirinen             | Teemu Raatikainen              | Jussi Pirinen              |
 | Syksy 2022 | Radin Zare                | Xander Voutilainen             | Sara Salminen              |
