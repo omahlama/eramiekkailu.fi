@@ -14,11 +14,11 @@ Mika Roman on miekkailujaoston kunniapuheenjohtaja ja palautti 90-luvun lopussa 
 
 ### Gladius Wikstromensis
 
-Mats Wikström on Erän pitkäaikainen kalpavalmentaja. Hän kasvatti jaoston harrastajamäärää merkittävästi ja teki vuosikausia vapaaehtoistyötä jaoston hyväksi. Nykyään Habdaa edustava maajoukkuekalpamiekkailija Gunnar Gräsbeck on Matsin ehkä menestynein oppilas. Matsin nimeä kantava Gladius Wisktromensis jaetaan isommille junioreille.
+Mats Wikström oli Erän pitkäaikainen kalpavalmentaja. Hän kasvatti jaoston harrastajamäärää merkittävästi ja teki vuosikausia vapaaehtoistyötä jaoston hyväksi. Nykyään Habdaa edustava maajoukkuekalpamiekkailija Gunnar Gräsbeck on Matsin ehkä menestynein oppilas. Matsin nimeä kantava Gladius Wisktromensis jaetaan isommille junioreille.
 
 ### Sarpola Sword
 
-Timo Sarpola on jaoston vanhin jäsen, hän aloitti miekkailun Erällä jo ennen Mikan liittymistä seuraan. Timo miekkailee kalvalla ja säilällä ja on voittanut useita joukkuesuomenmestaruuksia. Lisäksi hän on toiminut lukemattomissa valmennus- ja vapaaehtoistehtävissä vuosien aikaana. Sarpola Sword jaetaan aikuismiekkailijalle.
+Timo Sarpola oli jaoston erittäin pitkäaikainen jäsen, hän aloitti miekkailun Erällä jo ennen Mikan liittymistä seuraan. Timo miekkaili kalvalla ja säilällä ja on voittanut useita joukkuesuomenmestaruuksia. Lisäksi hän on toiminut lukemattomissa valmennus- ja vapaaehtoistehtävissä vuosien aikaana. Sarpola Sword jaetaan aikuismiekkailijalle.
 
 ## Palkitut
 
