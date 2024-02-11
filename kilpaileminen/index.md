@@ -50,7 +50,7 @@ Jos omia varusteita ei vielä ole, voi kilpailuihin lainata seuran varusteita. T
 
 ## Kustannukset
 
-Jokainen maksaa omat kulunsa kilpailin osallistumisesta. Tähän poikkeuksena seura kustantaa tuomarit kisoihin silloin, kun seuralle osallistujamäärästä johtuen tulee tuomarivelvoite. SM-joukkukilpailuihin osallistuminen on seuran kustantamaa.
+Jokainen maksaa omat kulunsa kilpailuihin osallistumisesta. Tähän poikkeuksena seura kustantaa tuomarit kisoihin silloin, kun seuralle osallistujamäärästä johtuen tulee tuomarivelvoite. SM-joukkuekilpailuihin osallistuminen on seuran kustantamaa.
 
 Yleensä kisoista tulee kuluja:
 
