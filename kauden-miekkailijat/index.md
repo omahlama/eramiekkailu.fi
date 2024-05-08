@@ -23,41 +23,43 @@ Timo Sarpola oli jaoston erittäin pitkäaikainen jäsen, hän aloitti miekkailu
 ## Palkitut
 
 {:.trophy-table}
-|            | Mika Roman Trophy (minit) | Gladius Wikstromensis (junnut) | Sarpola sword (aikuiset)   |
+| | Mika Roman Trophy (minit) | Gladius Wikstromensis (junnut) | Sarpola sword (aikuiset) |
 |------------|---------------------------|--------------------------------|----------------------------|
-| Kevät 2005 | Hanna Saksa               | Inka Grönqvist                 | --                         |
-| Syksy 2005 | Aleksis Honkanen          | Samuli Korpimäki               | --                         |
-| Kevät 2006 | Gunnar Gräsbeck           | Hanna Saksa                    | --                         |
-| Syksy 2006 | Carolina Fusoni           | Miiro Nummi                    | --                         |
-| Kevät 2007 | Henri Ahonen              | Johan Salonen                  | Ilkka Vertanen             |
-| Syksy 2007 | Elina Happonen            | Gunnar Gräsbeck                | --                         |
-| Kevät 2008 | Leo Rantanen              | Samuel Muir                    | Ilkka Vertanen             |
-| Syksy 2008 | Metti Sarmalinna          | Kasperi Partanen               | Henrik Salonen             |
-| Kevät 2009 | Onni Rautiokoski          | Herbert Ruohonen               | Petra Helminen             |
-| Syksy 2009 | Aaro Lohikoski            | Samuel Muir                    | Samuli Korpimäki           |
-| Kevät 2010 | Vilma Kilkki              | Roosa Pienihäkkinen            | --                         |
-| Syksy 2010 | Ruben Drayton             | Onni Rautiokoski               | Niilo Metsänen             |
-| Kevät 2011 | Max Asplund               | Mikko Sjöholm                  | Gunnar Gräsbeck            |
-| Syksy 2011 | Anssi Braunschweiler      | Elina Happonen                 | Santeri Suvanto            |
-| Kevät 2012 | Amanda Halme              | Max Tamlander                  | Mika Roman                 |
-| Syksy 2012 | Yuan Talikka              | Sampo Sainio                   | Johan Salonen              |
-| Kevät 2013 | Matias Ahokas             | Aleksi Halme                   | Antti Karjalainen          |
-| Syksy 2013 | Onni Tenkanen             | Milla Jämsen                   | Samuli Korpimäki           |
-| Kevät 2014 | Anna Pölönen              | Vilma Kilkki                   | Samuli Korpimäki           |
-| Syksy 2014 | Matias Ahokas             | Max Asplund                    | Santeri Suvanto            |
-| Kevät 2015 | Joona Helin               | Aleksi Halme                   | Olli Mahlamäki             |
-| Syksy 2015 | Emilia Loikas             | Santeri Palo                   | Mikko Hämäläinen           |
-| Kevät 2016 | Laura Alatossava          | Urho Lohikoski                 | Anna Pölönen               |
-| Syksy 2016 | Lauri Koivuluoma          | Elmeri Sipola                  | Tommi Högman               |
-| Kevät 2017 | Michelle Niemistö         | Leevi Silfverberg              | Teresa Llorens Salminen    |
-| Syksy 2017 | Sami Vuento               | Viivi Hyppönen                 | Matti Moisio               |
-| Kevät 2018 | Sanni Tiainen             | Sara Salminen                  | Elias Helo                 |
-| Syksy 2018 | Eeli Högman               | Sami Vuento                    | Joel Toppinen              |
-| Kevät 2019 | Liina Mähönen             | Elmeri Sipola                  | Jouko Juonala              |
-| Syksy 2019 | Eetu Kotilainen           | Lucas Huttu                    | Tommi Högman               |
-| Kevät 2020 | --                        | --                             | --                         |
-| Syksy 2020 | --                        | --                             | --                         |
-| Kevät 2021 | --                        | --                             | --                         |
-| Syksy 2021 | Anni Holländer            | Kasper Tuusinen                | Jukka Sinikara             |
-| Kevät 2022 | Siina Pirinen             | Teemu Raatikainen              | Jussi Pirinen              |
-| Syksy 2022 | Radin Zare                | Xander Voutilainen             | Sara Salminen              |
+| Kevät 2005 | Hanna Saksa | Inka Grönqvist | -- |
+| Syksy 2005 | Aleksis Honkanen | Samuli Korpimäki | -- |
+| Kevät 2006 | Gunnar Gräsbeck | Hanna Saksa | -- |
+| Syksy 2006 | Carolina Fusoni | Miiro Nummi | -- |
+| Kevät 2007 | Henri Ahonen | Johan Salonen | Ilkka Vertanen |
+| Syksy 2007 | Elina Happonen | Gunnar Gräsbeck | -- |
+| Kevät 2008 | Leo Rantanen | Samuel Muir | Ilkka Vertanen |
+| Syksy 2008 | Metti Sarmalinna | Kasperi Partanen | Henrik Salonen |
+| Kevät 2009 | Onni Rautiokoski | Herbert Ruohonen | Petra Helminen |
+| Syksy 2009 | Aaro Lohikoski | Samuel Muir | Samuli Korpimäki |
+| Kevät 2010 | Vilma Kilkki | Roosa Pienihäkkinen | -- |
+| Syksy 2010 | Ruben Drayton | Onni Rautiokoski | Niilo Metsänen |
+| Kevät 2011 | Max Asplund | Mikko Sjöholm | Gunnar Gräsbeck |
+| Syksy 2011 | Anssi Braunschweiler | Elina Happonen | Santeri Suvanto |
+| Kevät 2012 | Amanda Halme | Max Tamlander | Mika Roman |
+| Syksy 2012 | Yuan Talikka | Sampo Sainio | Johan Salonen |
+| Kevät 2013 | Matias Ahokas | Aleksi Halme | Antti Karjalainen |
+| Syksy 2013 | Onni Tenkanen | Milla Jämsen | Samuli Korpimäki |
+| Kevät 2014 | Anna Pölönen | Vilma Kilkki | Samuli Korpimäki |
+| Syksy 2014 | Matias Ahokas | Max Asplund | Santeri Suvanto |
+| Kevät 2015 | Joona Helin | Aleksi Halme | Olli Mahlamäki |
+| Syksy 2015 | Emilia Loikas | Santeri Palo | Mikko Hämäläinen |
+| Kevät 2016 | Laura Alatossava | Urho Lohikoski | Anna Pölönen |
+| Syksy 2016 | Lauri Koivuluoma | Elmeri Sipola | Tommi Högman |
+| Kevät 2017 | Michelle Niemistö | Leevi Silfverberg | Teresa Llorens Salminen |
+| Syksy 2017 | Sami Vuento | Viivi Hyppönen | Matti Moisio |
+| Kevät 2018 | Sanni Tiainen | Sara Salminen | Elias Helo |
+| Syksy 2018 | Eeli Högman | Sami Vuento | Joel Toppinen |
+| Kevät 2019 | Liina Mähönen | Elmeri Sipola | Jouko Juonala |
+| Syksy 2019 | Eetu Kotilainen | Lucas Huttu | Tommi Högman |
+| Kevät 2020 | -- | -- | -- |
+| Syksy 2020 | -- | -- | -- |
+| Kevät 2021 | -- | -- | -- |
+| Syksy 2021 | Anni Holländer | Kasper Tuusinen | Jukka Sinikara |
+| Kevät 2022 | Siina Pirinen | Teemu Raatikainen | Jussi Pirinen |
+| Syksy 2022 | Radin Zare | Xander Voutilainen | Sara Salminen |
+| Kevät 2023 | Arttu Aaltonen | Michelle Niemistö | Max Asplund |
+| Syksy 2023 | Miska Pirinen | Julia Lomma | Sami Ruotsalainen |
