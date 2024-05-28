@@ -27,7 +27,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 Seuraavat alkeiskurssit alkavat 2.9.2024 (minijuniorit) ja 4.9.2024 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko syksyn jatkuva kurssi maksaa 100€.
 
 Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
