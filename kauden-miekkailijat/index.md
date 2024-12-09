@@ -63,3 +63,4 @@ Timo Sarpola oli jaoston erittäin pitkäaikainen jäsen, hän aloitti miekkailu
 | Syksy 2022 | Radin Zare | Xander Voutilainen | Sara Salminen |
 | Kevät 2023 | Arttu Aaltonen | Michelle Niemistö | Max Asplund |
 | Syksy 2023 | Miska Pirinen | Julia Lomma | Sami Ruotsalainen |
+| Kevät 2024 | Alex Lönnqvist | Siina Pirinen | Luka Vilander |
