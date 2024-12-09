@@ -58,7 +58,7 @@ Timo Sarpola oli jaoston erittäin pitkäaikainen jäsen, hän aloitti miekkailu
 | Kevät 2020 | -- | -- | -- |
 | Syksy 2020 | -- | -- | -- |
 | Kevät 2021 | -- | -- | -- |
-| Syksy 2021 | Anni Holländer | Kasper Tuusinen | Jukka Sinikara |
+| Syksy 2021 | Kasper Tuusinen | Anni Holländer | Jukka Sinikara |
 | Kevät 2022 | Siina Pirinen | Teemu Raatikainen | Jussi Pirinen |
 | Syksy 2022 | Radin Zare | Xander Voutilainen | Sara Salminen |
 | Kevät 2023 | Arttu Aaltonen | Michelle Niemistö | Max Asplund |
