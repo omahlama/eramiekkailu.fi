@@ -25,9 +25,9 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 13.1.2025 (minijuniorit) ja 15.1.2025 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 1.9.2025 (minijuniorit) ja 3.9.2025 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko sylsyn jatkuva kurssi maksaa 100€.
 
 Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
@@ -46,7 +46,7 @@ Ilmoittautumiseen tarvittavat tiedot:
 - Sähköposti
 - Puhelinnumero (oma ja huoltajan)
 
-<a href="https://forms.gle/togEXUGXNWB2uP1b9" class="register-button" role="button" target="_blank">Ilmoittaudu nyt!</a>
+<a href="https://forms.gle/vB1VFdxBGJXUPi3u6" class="register-button" role="button" target="_blank">Ilmoittaudu nyt!</a>
 
 <hr>
 
