@@ -10,13 +10,13 @@ Miekkailua on mahdollista harrastaa vain treenaamalla, mutta kilpailutoiminta on
 
 Ensimmäisiin kilpailuihin voi osallistua vaikka heti alkeiskurssin jälkeen, mutta viimeistään vuoden harjoittelun jälkeen on hyvä lähteä mukaan kilpailuhin. Erällä ei aseteta mitään tulostavoitteita kenellekään, alussa jokainen voitettu piste on plussaa.
 
-Miekkailujaostossa järjestetään myös kaksi kertaa vuodessa seuran sisäiset kauden päättäjäiskisat. Ne ovat hyvää harjoittelua kilpailemisesta: järjestelmä on sama kuin oikeissa kisoissa, mutta lisenssiä ei tarvita ja kisat käydään omassa salissa omalla harjoitusvuorolla.
+Miekkailujaostossa järjestetään myös kaksi kertaa vuodessa seuran sisäiset kauden päättäjäiskisat. Ne ovat hyvää harjoittelua kilpailemisesta: järjestelmä on sama kuin oikeissa kisoissa, mutta kisat käydään omassa salissa omalla harjoitusvuorolla.
 
 ## Mitä kisoja on tarjolla?
 
 Miekkailuliiton kilpailukalenteri löytyy [täältä](https://www.fencing-pentathlon.fi/liitto/tapahtumat/?filter%5B%5D=saila&start=&end=&submit=hae).
 
-Nuorille parhaat ensimmäiset kilpailut ovat Erän oma Tapanila cup keväisin (27.4.2024) ja Tallinnassa pidettävät kisat, joita on useampi kerta vuodessa. Näissä kisoissa on ikäsarjat U11, U13, U15 ja U17 + aikuiset, eli jokaiselle löytyy sopiva sarja. U11 ja U13 sarjoissa tytöt ja pojat miekkailevat samassa sarjassa, U15 eteenpäin sukupuolet on jaettu erilleen. Yleinen ohje on osallistua oman sarjan lisäksi yhtä ylempään sarjaan - näin pääsee miekkailemaan enemmän.
+Nuorille parhaat ensimmäiset kilpailut ovat Erän omat Syyskisat syksyllä (18.10.2025) ja  Tapanila cup keväisin (18.4.2026) ja Tallinnassa pidettävät kisat, joita on useampi kerta vuodessa. Näissä kisoissa on ikäsarjat U11, U13, U15 ja U17 + aikuiset, eli jokaiselle löytyy sopiva sarja. U11 ja U13 sarjoissa tytöt ja pojat miekkailevat samassa sarjassa, U15 eteenpäin sukupuolet on jaettu erilleen. Yleinen ohje on osallistua oman sarjan lisäksi yhtä ylempään sarjaan - näin pääsee miekkailemaan enemmän.
 
 Useat Suomessa järjestettävät kisat sisältävät pelkän aikuisten sarjan. Siksi Erältä monet nuoret osallistuvat myös aikuisten sarjaan, tämä on suositeltavaa kaikille kilparyhmän jäsenille ja muillekin yli 13v miekkailijoille.
 
@@ -28,17 +28,15 @@ Korkein taso, jolla Eräläiset miekkailevat on kansainvälisen liiton alaiset U
 
 ## Lisenssi
 
-Kaikkiin kilpailuihin (pl epäviralliset kaudenpäättäjäiskisat) osallistuminen vaatii kilpailulisenssin. Lisenssikausi on syyskuun alusta elokuun loppuun. Lisenssiin kuuluu pakollinen vakuutus, joka maksaa saman verran riippumatta mihin aikaan vuodesta hankkii lisenssin. Siksi lisenssi kannattaa hankkia jo heti kauden alussa, näin vakuutus on voimassa jo kauden ensimmäisistä treeneistä alkaen.
+Miekkailuliitto vaatii kaikilta miekkailun harrastajilta lisenssin. Kaudesta 2025-2026 alkaen ei enää ole olemassa erillistä harraste- ja kilpailulisenssiä, vaan kaikki lisenssin hankkijat saavat myös oikeuden kilpailla. Lisenssikausi on elokuun alusta heinäkuun loppuun. Lisenssiin kuuluu pakollinen vakuutus, joka maksaa saman verran riippumatta mihin aikaan vuodesta hankkii lisenssin. Siksi lisenssi kannattaa hankkia jo heti kauden alussa, näin vakuutus on voimassa jo kauden ensimmäisistä treeneistä alkaen.
 
 Ohjeet lisenssin ostoon löytyy [täältä](https://www.fencing-pentathlon.fi/miekkailu/kilpailutoiminta/liiton-kilpailu-ja-harrastelisenssit/tilausohje/).
 
-Kaudella 2023-2024 kilpailulisenssi maksaa:
+Kaudella 2025-2026 miekkailulisenssi maksaa:
 
-- aikuiset 60€ + vakuutus 95€
-- nuoret (syntynyt 1.9.2005 – 31.8.2010) 60€ + vakuutus 34€
-- lapset (syntynyt 1.9.2010 tai myöhemmin) 18€ + vakuutus 21€
-
-Mikäli osallistuu vain yksittäiseen kilpailuun, voi hankkia TryOut-lisenssin, joka voimassa 7vrk eli käytännössä yhden kisaviikonlopun. TryOut-lisenssi maksaa aikuisilta 48€ ja nuorilta 30€.
+- aikuiset 45€ + vakuutus 79€
+- nuoret (syntynyt 1.8.2007–31.7.2012) 30€ + vakuutus 32€
+- lapset (syntynyt 1.8.2012 tai myöhemmin) 18€ + vakuutus 21€
 
 Lisenssin hankinnassa kannattaa olla ajoissa, koska vain lisenssin hankkineen miekkailijan voin ilmoittaa kilpailuihin ja ilmoittautumisjärjestelmä ei päivity reaaliajassa.
 
@@ -52,10 +50,7 @@ Jos omia varusteita ei vielä ole, voi kilpailuihin lainata seuran varusteita. T
 
 Jokainen maksaa omat kulunsa kilpailuihin osallistumisesta. Tähän poikkeuksena seura kustantaa tuomarit kisoihin silloin, kun seuralle osallistujamäärästä johtuen tulee tuomarivelvoite. SM-joukkuekilpailuihin osallistuminen on seuran kustantamaa.
 
-Yleensä kisoista tulee kuluja:
-
-- lisenssi (ks. yllä)
-- osallistumismaksu 20-35€
+Yleensä kisojen osallistumismaksu Suomessa on 20-35€.
 
 Tallinnassa oleviin kisoihin matkustetaan yleensä päiväristeilyllä, jolloin matkakulut ovat hyvin kohtuulliset, n. 30-50€. Usein vanhemmat haluavat tulla kisareissulle mukaan, mutta se ei ole pakollista, voidaan esim sopia yhden aikuisen toimivan huoltajana useammalle lapselle.
 
@@ -63,4 +58,4 @@ PM-kisoista tulee enemmän kuluja, koska yleensä matkustetaan lentäen ja yövy
 
 ## Ilmoittautuminen
 
-Kisoista tiedotetaan jaoston WhatsApp-ryhmässä. Siellä jaetaan linkki, jolla kerätään seuran sisäiset ilmoittautumiset. Olli tekee sen jälkeen seuran puolesta ilmoittautumiset Ophardt-järjestelmään. Samalla kun ilmoittautuu kisaan, kannattaa hoitaa myös lisenssi kuntoon, vain lisenssin haltijoita voi ilmoittaa kisoihin.
+Kisoista tiedotetaan jaoston WhatsApp-ryhmässä. Siellä jaetaan linkki, jolla kerätään seuran sisäiset ilmoittautumiset - riippuen kisasta joko pelkkä myclub-ilmoittautuminen riittää tai, mikäli kisassa pitää valita sarjoja, täytettän lomake. Olli tekee sen jälkeen seuran puolesta ilmoittautumiset Ophardt-järjestelmään. Samalla kun ilmoittautuu kisaan, kannattaa hoitaa myös lisenssi kuntoon, vain lisenssin haltijoita voi ilmoittaa kisoihin.
