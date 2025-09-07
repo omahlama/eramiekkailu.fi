@@ -75,7 +75,7 @@ on yksi parhaiten koulutetuista säilävalmentajista Suomessa. SM5L valitsi hän
     <img src="img/olli.jpg">
     <h3>Olli Mahlamäki</h3>
 
-Olli on säilämiekkailun 11-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa kilparyhmää sekä minijunioreja. Lisäksi Olli on miekkailujaoston puheenjohtaja.
+Olli on säilämiekkailun 13-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa kilparyhmää sekä minijunioreja. Lisäksi Olli on miekkailujaoston puheenjohtaja.
 
 </div>
 
