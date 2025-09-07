@@ -103,7 +103,7 @@ Max on miekkaillut Erällä nuoresta asti. Hän valmentaa nuorten ryhmää ja mi
 </div>
 
 <div class="coach">
-    <img src="">
+    <img src="img/jussi.jpg">
     <h3>Jussi Pirinen</h3>
 
 Jussi aloitti miekkailun erällä aikuisryhmässä. Hän valmentaa minijunioreita ja nuoria ja antaa myös oppitunteja nuorille miekkailjoille.
