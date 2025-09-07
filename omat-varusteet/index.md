@@ -8,7 +8,7 @@ navi: omat-varusteet
 
 Seuran varusteet on tarkoitettu erityisesti aloittelevien miekkailijoiden käyttöön. Siksi <a href="{{ site.baseurl }}/salisaannot/">salisäännöissä</a> määritetään, että omat varusteet pitää hankkia viimeistään vuoden harjoittelun jälkeen. Nyt kun alkeiskursseilla on hyvin osallistujia, niin on erityisen tärkeää, että pidempään harrastaneet hankkivat omat varusteet.
 
-Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miekkailuliiton varustemääräyksistä](https://www.fencing-pentathlon.fi/miekkailu/kilpailutoiminta/varusteet/) nähdään, että rajapyykki on 15 vuoden iässä - yli 15v sarjoissa vaaditaan samat 800N varusteet kuin aikuisilla, nuoremmille riittää tavallinen, halvempi miekkailupuku. Suosittelemme 800N varusteiden hankkimista kaikille paitsi aivan nuorimmille miekkailijoille: raja menee kilpailusarjan mukaan, ei miekkailijan iän: jos esim. 14v nuori miekkailee alle 17v sarjassa, hän tarvitsee 800N varusteet.
+Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miekkailuliiton varustemääräyksistä](https://www.fencing-pentathlon.fi/miekkailu/kilpailutoiminta/varusteet/) nähdään, että rajapyykki on 15 vuoden iässä - yli 15v sarjoissa vaaditaan samat 800N varusteet kuin aikuisilla, nuoremmille riittää tavallinen, halvempi miekkailupuku. Raja menee kilpailusarjan mukaan, ei miekkailijan iän: jos esim. 14v nuori miekkailee alle 17v sarjassa, hän tarvitsee 800N varusteet. Yleensä kilpailuissa osallistutaan omaan sarjaan ja yhtä ylempään, siksi tärkeä kysymys valinnassaon: sopiiko tämä varuste päälle vielä 14v iässä. Jos varustetta aikoo käyttää vielä 14v iässä (oma sarja U15, yhtä vanhempi U17), kannattaa ostaa 800N varusteet, jos varusteet joka tapauksessa jää pieneksi, voi hyvin ostaa halvemman 350N varusteen.
 
 <a href="https://www.miekkailutarvike.fi/"><img src="/img/oulun_miekkailutarvike.png" alt="Oulun Miekkailutarvike" /></a>
 
@@ -16,7 +16,9 @@ Oikeiden varusteiden valitsemisessa tärkeä kysymys on miekkailijan ikä. [Miek
 
 ## Tarvittavat varusteet
 
-Tässä on kuvattu säilisteille tarvittavat varusteet kokonaisuudessaan.
+Tässä on kuvattu säilisteille tarvittavat varusteet kokonaisuudessaan. Tarkoitus on hankkia kaikki tässä mainitut varusteet, jotta miekkailija pärjää täysin omilla varusteilla niin treeneissä kuin kilpailuissa.
+
+Miekkailuvarusteet ovat kohtuullisen kallis investointi, siksi varusteita kannattaa hankkia jo ennen vuoden rajapyykkiä, jotta ei tarvitse ostaa kaikkea kerralla. Jos perheen taloudellisen tilanteen takia tms. ei ole mahdollista hankkia omia varusteita, voidaan erikseen sovittaessa pidentää seuran varusteiden laina-aikaa - kaikille ei riitä lainavarusteita, joten omien varusteiden hankkiminen on tärkeää, mutta tarkoitus on mahdollistaa harrastaminen kaikille perheen taloudellisesta tilanteesta riippumatta. Yleisesti muutenkin käytetään tervettä järkeä: jos esim varuste on jäänyt pieneksi ja tarvitsee lainavarustetta muutamaksi viikoksi sillä aikaa, kun uusi on tilauksessa, saa tietysti lainata seuralta - ei jätetä treenejä väliin varusteiden takia.
 
 ### Miekkailupuku
 
@@ -35,6 +37,14 @@ Puvuista voi oikean vahvuisista valita huoleti halvimman vaihtoehdon: kalliimmat
 Alusliivi tulee valkoisen takin alle ja tarjoaa lisäsuojaa. Treeneissä se ei ole pakollinen, mutta vaaditaan kilpailuissa.
 
 [Alusliivi](https://www.miekkailutarvike.fi/index.php?cPath=176_137_36_25)
+
+### Rintasuojus
+
+<img src="/img/rintasuojus.jpg" alt="Rintasuojus" class="material">
+
+Rintasuojus on pakollinen naisille ja tytöille puberteetin jälkeen, vapaaehtoinen miehille ja lapsille. Rintasuojus on miekkailupuvun alla ja suojaa rintoja kovilta miekaniskuilta. Säilässä saa käyttää ns. kovaa rintasuojusta, sääntö on sama kuin kalvassa.
+
+[Rintasuojus](https://www.miekkailutarvike.fi/index.php?cPath=176_137_26)
 
 ### Maski
 
@@ -71,9 +81,9 @@ Nimen painatus sähkötakin selkään ei ole pakollista missään kilpailuissa s
 <img src="/img/vartalojohto.jpg" alt="Vartalojohto" class="material">
 <img src="/img/paapiuha.jpg" alt="Pääpiuha" class="material">
 
-Johdoilla miekkailija kytketään merkitsijälaitteisiin. Kilpailuissa molempia johtoja tarvitaan 2kpl, mutta alkuun riittää hyvin yksi kumpaakin.
+Johdoilla miekkailija kytketään merkitsijälaitteisiin. Kilpailuissa molempia johtoja tarvitaan 2kpl, mikä on ihan hyvä myös treeneissä - jos yksi menee rikki, voi käyttää toista ennen kuin ehtii korjata rikkoontuneen johdon.
 
-[Vartalojohto eli körppäri](https://www.miekkailutarvike.fi/product_info.php?cPath=176_45_63&products_id=821)
+[Vartalojohto eli körppäri](https://www.miekkailutarvike.fi/product_info.php?cPath=176_45_63&products_id=946)
 
 [Maskipiuha](https://www.miekkailutarvike.fi/product_info.php?cPath=176_45_63&products_id=226)
 
@@ -83,15 +93,18 @@ Johdoilla miekkailija kytketään merkitsijälaitteisiin. Kilpailuissa molempia 
 
 Säilää hankkiessa tarvitaan sähkösäilä.
 
-[Säilä](https://www.miekkailutarvike.fi/product_info.php?cPath=176_57_146&products_id=680)
+[Aikuisten Säilä](https://www.miekkailutarvike.fi/product_info.php?cPath=176_57_146&products_id=680)
+
+[Nuorten/lasten säilä](https://www.miekkailutarvike.fi/product_info.php?cPath=176_57_146&products_id=1065)
 
 Säilän valintoja on monta, mutta oletusvalinnat on ihan riittävät. Tärkeää valita oikea- tai vasenkätinen.
 
 Säilän koko kannattaa valita miekkailijan iän ja koon mukaan, liian iso miekka on painava ja vaikeuttaa oikean tekniikan oppimista:
 
-- 8-9v: koko 0
+- 7-9v: koko 0
 - 10-12v: koko 2
 - 13v-: koko 5 eli normaali aikuisten miekka
 
-Säilän koon valintaa ei löydy Miekkailutarvikkeen nettisivuilta, mutta laittamalla halutun koon lisätietoihin, asia kyllä järjestyy. Olemme
-pyytäneet valinnan lisäämistä nettisivuille.
+Säilän koot 0-3 löytyvät lasten säilän alta, koko 5 on aikuisten säilä.
+
+Kilpailuissa vaaditaan 2 säilää, yksi varalla alueen vieressä siltä varalta, että terä katkeaa kesken ottelun. Aluksi voi hankkia vain yhden miekan, mutta ainakin kun alkaa käydä useammin kisoissa, tulee hankkia myös oma varamiekka.
