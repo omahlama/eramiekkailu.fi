@@ -83,7 +83,7 @@ Olli on säilämiekkailun 13-kertainen suomenmestari. Hän kilpailee edelleen it
     <img src="img/tommi.jpg">
     <h3>Tommi Högman</h3>
 
-Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse aikuisten ryhmässä.
+Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja alkeiskursseja sekä miekkailee itse aikuisten ryhmässä.
 
 </div>
 
@@ -91,8 +91,22 @@ Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja miekkailee itse 
     <img src="img/sara.jpg">
     <h3>Sara Salminen</h3>
 
-Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarjassa. Hän kilpailee itse ja valmentaa kilparyhmää.
+Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarjassa. Hän valmentaa kilparyhmää.
 
+</div>
+
+<div class="coach">
+    <img src="img/max.jpg">
+    <h3>Max Asplund</h3>
+
+Max on miekkaillut Erällä nuoresta asti. Hän valmentaa nuorten ryhmää ja miekkailee itse aikuisten ryhmässä.
+</div>
+
+<div class="coach">
+    <img src="">
+    <h3>Jussi Pirinen</h3>
+
+Jussi aloitti miekkailun erällä aikuisryhmässä. Hän valmentaa minijunioreita ja nuoria ja antaa myös oppitunteja nuorille miekkailjoille.
 </div>
 
 <hr>
