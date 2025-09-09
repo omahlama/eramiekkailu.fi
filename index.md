@@ -25,16 +25,16 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 1.9.2025 (minijuniorit) ja 3.9.2025 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 12.1.2026 (minijuniorit) ja 14.1.2025 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko sylsyn jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
 
 Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
 - 18.00-19.30: 10-15v tytöt ja pojat
 - 19.30-21.00: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssimaksuun sisältyy kausimaksu, eli kurssiosuuden päätyttyä treenit jatkuvat samaan aikaan samassa paikassa ilman lisämaksua joulukuun loppuun! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla. Alkeiskurssimaksun lisäksi laskutetaan koko Tapanilan Erän jäsenmaksu 10€/vuosi.
+Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssimaksuun sisältyy kausimaksu, eli kurssiosuuden päätyttyä treenit jatkuvat samaan aikaan samassa paikassa ilman lisämaksua toukokuun loppuun! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla. Alkeiskurssimaksun lisäksi laskutetaan koko Tapanilan Erän jäsenmaksu 12€/vuosi.
 
 Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
@@ -46,7 +46,10 @@ Ilmoittautumiseen tarvittavat tiedot:
 - Sähköposti
 - Puhelinnumero (oma ja huoltajan)
 
-<a href="https://forms.gle/vB1VFdxBGJXUPi3u6" class="register-button" role="button" target="_blank">Ilmoittaudu nyt!</a>
+<!-- myClub embed JS - start -->
+<div class="myclub-embed" data-url="https://tapanilanera.myclub.fi/groups/18430/course_embeds/36575?token=5a413f0fe51bf5ee5861ff442ec675969161fd3e"></div>
+<script>(function(d, s, id) { var js, mjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.async = true; js.src = "https://d2ubdm6yoox6gh.cloudfront.net/assets/myclub-embed.js"; mjs.parentNode.insertBefore(js, mjs); }(document, 'script', 'myclub-embed-js'));</script>
+<!-- myClub embed JS - end -->
 
 <hr>
 
