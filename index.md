@@ -136,7 +136,5 @@ Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota y
 
 ## Seuraa meitä Instagramissa
 
-<!-- Elfsight Instagram Feed | TapanilanEraFencing -->
-<script src="https://elfsightcdn.com/platform.js" async></script>
-<div class="elfsight-app-d29c1bd3-2b36-4d56-a725-be98f779c3a4" data-elfsight-app-lazy></div>
 
+<div id="ft-insta-app"></div><script type="module">import App from "https://cdn.fouita.com/public/instagram-feed.js?11";new App({target: document.getElementById("ft-insta-app"),props:{"settings":{"layout":"grid","source":"insta","selected":"uname","header":true,"autoplay":false,"zigzag":false,"cols":3,"cardHeight":300,"gap":0,"direction":"down","height":700,"bgColor":"","txtColor":"","ukey":"625ab70b-032b-4e04-9c70-980a07704c30"}}});</script><div id="ft-insta-brd"></div>
