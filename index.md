@@ -25,7 +25,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 12.1.2026 (minijuniorit) ja 14.1.2025 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Seuraavat alkeiskurssit alkavat 12.1.2026 (minijuniorit) ja 14.1.2026 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
 Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
 
