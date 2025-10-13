@@ -197,12 +197,18 @@ img {
   text-align: center;
 }
 
-#logo {
-  float: right;
+.logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 180px;
 }
 
 @media all and (max-width: 500px) {
-  #logo {
+  .logo {
     float: none;
   }
 }

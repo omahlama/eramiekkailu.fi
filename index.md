@@ -10,8 +10,6 @@ Olet Tapanilan Erän miekkailujaoston kotisivuilla. Keskitymme nuoriso- ja kilpa
 
 Jäsenemme ovat tasoltaan kuntoilijoista maailmalla mainetta niittäneisiin kilpaurheilijoihin. Eri tasoiset ja ikäiset harjoittelevat yhdessä, minkä ansiosta ilmapiiri harjoituksissa on avoin.
 
-<img id="logo" src="img/logo_era.jpg">
-
 Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 - Maanantai 18.00-19.00: Minijuniorit
@@ -21,6 +19,10 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 - Perjantai 18.00-19.30: Nuoret
 - Perjantai 19.30-21.00: Vanhemmat juniorit ja aikuiset
 
+<div class="logos">
+    <img class="logo" src="img/logo_era.jpg">
+    <img class="logo" src="img/logo_tapanilan_era.png">
+</div>
 <hr>
 
 ## Alkeiskurssit
