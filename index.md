@@ -29,14 +29,14 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 Seuraavat alkeiskurssit alkavat 12.1.2026 (minijuniorit) ja 14.1.2026 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
 
-Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 100€.
+Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 120€.
 
 Nuorten ja aikuisten alkeiskurssilla pidetään kahdet harjoitukset viikossa keskiviikkoisin ja perjantaisin:
 
 - 18.00-19.30: 10-15v tytöt ja pojat
 - 19.30-21.00: Yli 16v miehet ja naiset
 
-Alkeiskurssin hinta on nuorilta 200€ ja aikuisilta 240€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssimaksuun sisältyy kausimaksu, eli kurssiosuuden päätyttyä treenit jatkuvat samaan aikaan samassa paikassa ilman lisämaksua toukokuun loppuun! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla. Alkeiskurssimaksun lisäksi laskutetaan koko Tapanilan Erän jäsenmaksu 12€/vuosi.
+Alkeiskurssin hinta on nuorilta 240€ ja aikuisilta 280€. Kurssille tarvitset mukaan sisäliikuntavarusteet, miekkailuvarusteiden laina kuuluu kurssin hintaan. Alkeiskurssimaksuun sisältyy kausimaksu, eli kurssiosuuden päätyttyä treenit jatkuvat samaan aikaan samassa paikassa ilman lisämaksua toukokuun loppuun! Aikuisten alkeiskurssimaksun voi suorittaa myös liikuntaseteleillä / -kortilla. Alkeiskurssimaksun lisäksi laskutetaan koko Tapanilan Erän jäsenmaksu 12€/vuosi.
 
 Lisätiedot Olli Mahlamäki, sähköpostitse [tapera.miekkailujaosto@gmail.com](mailto:tapera.miekkailujaosto@gmail.com) tai puh 044 320 4841.
 
