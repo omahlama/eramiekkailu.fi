@@ -20,8 +20,8 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 - Perjantai 19.30-21.00: Vanhemmat juniorit ja aikuiset
 
 <div class="logos">
-    <img class="logo" src="img/logo_era.jpg">
-    <img class="logo" src="img/logo_tapanilan_era.png">
+    <img class="logo" src="img/logo_era.jpg" alt="Miekkailujaoston logo">
+    <img class="logo" src="img/logo_tapanilan_era.png" alt="Tapanilan Erä logo">
 </div>
 <hr>
 
@@ -68,7 +68,7 @@ Ensimmäisen vuoden ajan saa jatkaa seuran varusteiden käyttöä. Kun miekkailu
 ## Valmentajat
 
 <div class="coach">
-    <img src="img/samuli.jpg">
+    <img src="img/samuli.jpg" alt="Samuli Korpimäki">
     <h3>Samuli Korpimäki</h3>
 
 Samuli on Erän päävalmentaja. Hän opettaa sekä nuoria että aikuisia säilistejä. Keväällä 2022 Samuli kävi FIE:n 3kk kestävän valmentajakoulutuksen Unkarissa, eli hän
@@ -77,7 +77,7 @@ on yksi parhaiten koulutetuista säilävalmentajista Suomessa. SM5L valitsi hän
 </div>
 
 <div class="coach">
-    <img src="img/olli.jpg">
+    <img src="img/olli.jpg" alt="Olli Mahlamäki">
     <h3>Olli Mahlamäki</h3>
 
 Olli on säilämiekkailun 13-kertainen suomenmestari. Hän kilpailee edelleen itse ja valmentaa kilparyhmää sekä minijunioreja. Lisäksi Olli on miekkailujaoston puheenjohtaja.
@@ -85,7 +85,7 @@ Olli on säilämiekkailun 13-kertainen suomenmestari. Hän kilpailee edelleen it
 </div>
 
 <div class="coach">
-    <img src="img/tommi.jpg">
+    <img src="img/tommi.jpg" alt="Tommi Högman">
     <h3>Tommi Högman</h3>
 
 Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja alkeiskursseja sekä miekkailee itse aikuisten ryhmässä.
@@ -93,7 +93,7 @@ Tommi on Erän oma kasvatti, joka valmentaa nuorten ryhmää ja alkeiskursseja s
 </div>
 
 <div class="coach">
-    <img src="img/sara.jpg">
+    <img src="img/sara.jpg" alt="Sara Salminen">
     <h3>Sara Salminen</h3>
 
 Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarjassa. Hän valmentaa kilparyhmää.
@@ -101,14 +101,14 @@ Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarj
 </div>
 
 <div class="coach">
-    <img src="img/max.jpg">
+    <img src="img/max.jpg" alt="Max Asplund">
     <h3>Max Asplund</h3>
 
 Max on miekkaillut Erällä nuoresta asti. Hän valmentaa nuorten ryhmää ja miekkailee itse aikuisten ryhmässä.
 </div>
 
 <div class="coach">
-    <img src="img/jussi.jpg">
+    <img src="img/jussi.jpg" alt="Jussi Pirinen">
     <h3>Jussi Pirinen</h3>
 
 Jussi aloitti miekkailun erällä aikuisryhmässä. Hän valmentaa minijunioreita ja nuoria ja antaa myös oppitunteja nuorille miekkailjoille.
@@ -119,7 +119,7 @@ Jussi aloitti miekkailun erällä aikuisryhmässä. Hän valmentaa minijunioreit
 ## Tietoa miekkailusta
 
 <div class="youtube">
-    <iframe src="https://www.youtube.com/embed/nFLRsasWPwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture fullscreen" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/nFLRsasWPwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture fullscreen" allowfullscreen title="Miekkailuvideo"></iframe>
 </div>
 
 <hr>
