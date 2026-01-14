@@ -27,7 +27,7 @@ Harjoitukset on maanantaisin, keskiviikkoisin ja perjantaisin:
 
 ## Alkeiskurssit
 
-Seuraavat alkeiskurssit alkavat 12.1.2026 (minijuniorit) ja 14.1.2026 (nuoret ja aikuiset). Osallistujat valitaan ilmoittautumisjärjestyksessä, joten toimi nopeasti!
+Kevään alkeiskurssit alkoivat 12.1.2026 (minijuniorit) ja 14.1.2026 (nuoret ja aikuiset). Kurssit eivät tulleet täyteen, joten vielä pari viikkoa otetaan jälki-ilmoittautumisia - toimi nopeasti ja pääset vielä mukaan kevään kurssille!
 
 Minijuniori-kurssi 7-9v tytöille ja pojille pidetään maanantaisin klo 18-19. Kerran viikossa koko kevään jatkuva kurssi maksaa 120€.
 
@@ -105,6 +105,7 @@ Sara on voittanut säilän suomenmestaruuden U17, U20 (2 kertaa) ja naisten sarj
     <h3>Max Asplund</h3>
 
 Max on miekkaillut Erällä nuoresta asti. Hän valmentaa nuorten ryhmää ja miekkailee itse aikuisten ryhmässä.
+
 </div>
 
 <div class="coach">
@@ -112,6 +113,7 @@ Max on miekkaillut Erällä nuoresta asti. Hän valmentaa nuorten ryhmää ja mi
     <h3>Jussi Pirinen</h3>
 
 Jussi aloitti miekkailun erällä aikuisryhmässä. Hän valmentaa minijunioreita ja nuoria ja antaa myös oppitunteja nuorille miekkailjoille.
+
 </div>
 
 <hr>
@@ -134,7 +136,6 @@ Jos haluat elävöittää polttari-, virkistyspäivää tms. miekkailulla, ota y
 - Juomapullon, täällä tulee hiki
 
 <hr>
-
 
 ## Seuraa meitä Instagramissa
 
