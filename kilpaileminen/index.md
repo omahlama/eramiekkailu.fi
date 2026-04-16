@@ -16,7 +16,7 @@ Miekkailujaostossa järjestetään myös kaksi kertaa vuodessa seuran sisäiset 
 
 Miekkailuliiton kilpailukalenteri löytyy [täältä](https://www.fencing-pentathlon.fi/liitto/tapahtumat/?filter%5B%5D=saila&start=&end=&submit=hae).
 
-Nuorille parhaat ensimmäiset kilpailut ovat Erän omat Syyskisat syksyllä (18.10.2025) ja  Tapanila cup keväisin (18.4.2026) ja Tallinnassa pidettävät kisat, joita on useampi kerta vuodessa. Näissä kisoissa on ikäsarjat U11, U13, U15 ja U17 + aikuiset, eli jokaiselle löytyy sopiva sarja. U11 ja U13 sarjoissa tytöt ja pojat miekkailevat samassa sarjassa, U15 eteenpäin sukupuolet on jaettu erilleen. Yleinen ohje on osallistua oman sarjan lisäksi yhtä ylempään sarjaan - näin pääsee miekkailemaan enemmän.
+Nuorille parhaat ensimmäiset kilpailut ovat Erän omat Syyskisat syksyllä (18.10.2025) ja Tapanila cup keväisin (18.4.2026) ja Tallinnassa pidettävät kisat, joita on useampi kerta vuodessa. Näissä kisoissa on ikäsarjat U11, U13, U15 ja U17 + aikuiset, eli jokaiselle löytyy sopiva sarja. U11 ja U13 sarjoissa tytöt ja pojat miekkailevat samassa sarjassa, U15 eteenpäin sukupuolet on jaettu erilleen. Yleinen ohje on osallistua oman sarjan lisäksi yhtä ylempään sarjaan - näin pääsee miekkailemaan enemmän.
 
 Useat Suomessa järjestettävät kisat sisältävät pelkän aikuisten sarjan. Siksi Erältä monet nuoret osallistuvat myös aikuisten sarjaan, tämä on suositeltavaa kaikille kilparyhmän jäsenille ja muillekin yli 13v miekkailijoille.
 
@@ -59,3 +59,31 @@ PM-kisoista tulee enemmän kuluja, koska yleensä matkustetaan lentäen ja yövy
 ## Ilmoittautuminen
 
 Kisoista tiedotetaan jaoston WhatsApp-ryhmässä. Siellä jaetaan linkki, jolla kerätään seuran sisäiset ilmoittautumiset - riippuen kisasta joko pelkkä myclub-ilmoittautuminen riittää tai, mikäli kisassa pitää valita sarjoja, täytettän lomake. Olli tekee sen jälkeen seuran puolesta ilmoittautumiset Ophardt-järjestelmään. Samalla kun ilmoittautuu kisaan, kannattaa hoitaa myös lisenssi kuntoon, vain lisenssin haltijoita voi ilmoittaa kisoihin.
+
+## Kisapäivän aikataulu
+
+Kilpailukutsu löytyy aina [miekkailuliiton toimintakalenterista](https://www.fencing-pentathlon.fi/liitto/tapahtumat/?filter%5B%5D=saila&start=&end=&submit=hae). Kilpailukutsusta kannattaa tarkistaa oman sarjan alkamisaika.
+
+Kilpailuihin saavutaan paikalle tuntia ennen oman sarjan alkua - kova DL on puoli tuntia ennen, jolloin ilmoittautuminen sulkeutuu, mutta suositus on tuntia ennen.
+
+Kisapaikalla:
+
+1. käydään ilmoittautumassa läsnäolevaksi ja maksetaan osallistumismaksu
+2. puetaan lämmittelyvaatteet päälle ja tehdään fyysinen lämmittely kuten treeneissä harjoiteltu
+3. puetaan miekkailuvarusteet päälle
+4. tehdään lyhyt pariharjoittelu, jossa aktivoidaan käsi esim nopeilla syöksyillä yms
+5. vähintään yksi lämmittelyottelu, mieluummin 2-3
+
+Varsinkin isommissa kisoissa tila lämmittelyyn on usein kortilla, pitää olla sopivalla tavalla röyhkeä ja napata vapaa alue itselle + seurakavereille.
+
+Kisa alkaa alkuerillä, jossa miekkailjat jaetaan alkurankingin mukaan n 7 hengen eriin. Erässä kaikki ottavat kaikkia vastaan 5 pisteen ottelun. Tulosten perusteella saadaan ranking seuraavalle kierrokselle.
+
+Tyypillisesti meidän kisoissa kaikki miekkailijat pääsevät alkueristä jatkoon, jonka jälkeen alkaa pudotuspelit. Hyvä tulos alkuerissä tarkoittaa helpompaa vastusta pudotuspeleissa, esim 16 miekkailijan kanssa otteluparit ovat 1 vs 16, 2 vs 15, ..., 8 vs 9. Pudotusottelut käydään 15 pisteeseen (alle 13v ja yli 40v sarjoissa 10 pisteeseen). Voittaja pääsee jatkoon ja hävinnyt putoaa pois, kunnes jäljellä on enää kisan voittaja.
+
+Kilpailuiden eräjaot ja muu tilanne näkyy tyypillisesti [Fencing Time Live -palvelussa](https://fencingtimelive.com), joka vaatii nykyään ilmaisen rekisteröitymisen. Linkki kilpailun tuloksiin on yleensä kisapaikalla esillä QR-koodina, löytyy myös palvelusta hakemalla. Alkuerissä Fencing Time Live kertoo ottelujärjestyksen, eli sieltä voi katsoa kuinka monta ottelua on taukoa ennen seuraavaa omaa ottelua ja ketä vastaan se on. Myös pudotuspelitaulukot näkyvät palvelussa, hyvin järjestetyissä kisoissa pudotusotteluiden aika ja alue näkyvät Fencing Time Livessä, mutta pienemmissä kisoissa tämä jää usein pois ja alueet kerrotaan paikan päällä.
+
+### Ruokailu kisoissa
+
+Pitkän kisapäivän aikana energiansaanti on tärkeää, erityisesti jos osallistuu useampaan sarjaan. Helposti sulavat eväät, esim leipä, välipalakeksit, banaani, suklaa ovat hyviä eväitä.
+
+Kisojen adrenaliini voi viedä nälän tunteen pois, siksi on tärkeää pakottaa itsensä syömään jotain silloin, kun siihen on sopiva hetki. Yleensä hyvä hetki syödä eväitä on alkuerien jälkeen ja sarjojen välissä (jos osallistuu useampaan sarjaan).
